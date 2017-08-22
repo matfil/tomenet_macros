@@ -1,0 +1,272 @@
+  [TomeNET 4.7.1 @ europe.tomenet.eu Character Dump]
+
+ Name        : Robber           Age                 19       STR:     15       
+ Sex         : Male             Height              25       INT:     10       
+ Race        : Yeek             Weight             173       WIS:     10       
+ Class       : Rogue            Social Class        78       DEX: 18/***       
+ Body        : Player                                        CON:     18       
+                                                             Chr:      6      7
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           65      Level             29    Hit Points      -14/ 253   
+ +To MDamage        22      Experience     70772    MP (Mana)        40/  40   
+ +To RHit           36      Max Exp        70772    Sanity             Sound   
+ +To RDamage        15      Exp to Adv.    75000                               
+ Total AC           81      Gold           91474    Status              DEAD   
+                                                                               
+ Fighting    : Legendary    Perception  : Superb       Blows/Round:  7         
+ Bows/Throw  : Heroic       Searching   : Very Good    Shots/Round:  2         
+ Saving Throw: Superb       Disarming   : Excellent                            
+ Stealth     : Legendary    Magic Device: Poor         Infra-Vision: 0 feet    
+                                                                               
+          You are at -50 ft in Mordor.                                         
+                                                                               
+                                                                               
+          You are one of several children of a Landed Knight. You are          
+          a well liked child. You have dark brown eyes, curly black            
+          hair, and an average complexion.                                     
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 0)
+ - Combat                                         15.880 [1.200]
+     - Weaponmastery                              13.460 [0.700]
+         - Sword-mastery                          31.200 [0.600]
+             . Critical-strike                    00.000 [0.900]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               01.000 [0.900]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            00.000 [0.350]
+         . Crossbow-mastery                       00.000 [0.350]
+     . Boomerang-mastery                          00.000 [0.600]
+ - Magic                                          07.000 [0.600]
+         . Air                                    00.000 [0.750]
+         . Conveyance                             00.000 [0.750]
+         . Necromancy                             00.000 [1.000]
+         . Traumaturgy                            00.000 [1.000]
+         . Aura of Fear                           00.000 [1.000]
+         . Shivering Aura                         00.000 [1.000]
+         . Aura of Death                          00.000 [1.000]
+     . Magic device                               01.000 [0.950]
+ - Sneakiness                                     12.970 [0.900]
+     . Stealth                                    33.200 [0.700]
+     . Stealing                                   33.000 [1.000]
+     . Backstabbing                               01.000 [1.000]
+     . Dodging                                    01.000 [0.900]
+     . Calmness                                   00.000 [0.800]
+     . Trapping                                   01.000 [1.000]
+ - Health                                         01.000 [1.000]
+     . Swimming                                   00.000 [0.060]
+     . Climbing                                   00.000 [0.040]
+     . Digging                                    00.000 [1.100]
+
+
+  [Character Equipment]
+
+a) Dagger (Defender) (base,nether) {+,31}(1d4)(+20,+21)[+8](+1stl)
+b) a Dagger {+,1} (1d4) (+0,+0)
+c) a Long Bow of Lothlorien {+,24} (x4) (+16,+15) (+2)
+d) a Glass Ring of Toughness {+,22} (+3)
+e) a Glass Ring of Toughness {+,25} (+4) {stolen}
+f) a Malachite Amulet of Serpents {+,15} [+4] (+6)
+g) a Brass Lantern {+,1} (with 3545 turns of light) {50% off}
+h) a Martial Arts Gown {+,18} [1,+17] (+1)
+i) a Kolla {+,26} [3,+11] (+2) {stolen}
+j) (hat)
+k) a Set of Cesti of Agility {+,31} [5,+7] (+5) {stolen}
+l) a Pair of Hard Leather Boots of Stealth {+,20} [3,+8] (+3)
+m) 14 Magic Arrows {+,?} (1d4) {!k}
+n) a Flint {+,9}
+
+
+  [Character Inventory]
+
+a) a Codex {+,4} {on sale}
+b) a Lembas {+,4}
+c) 2 Flasks of Oil {+,1}
+d) 3 Red Speckled Potions of Restore Mana {+,14} {stolen}
+e) 12 Coagulated Crimson Potions of Speed {+,1} {stolen}
+f) 18 Copper Speckled Potions of Healing {+,13} {stolen}
+g) a Clotted Red Potion of Resistance {+,7}
+h) 25 Scrolls "an ornab mebul" of Phase Door {+,1} {75% off}
+i) 13 Scrolls "bucon reafid" of Teleportation {+,5} {stolen}
+j) 12 Scrolls "fuerk whonsef" of Word of Recall {+,1} {@R}
+k) 10 Scrolls "forkli auser" of Identify {+,1}
+l) a Scroll "hanih con" of *Enchant Armour* {+,11} {stolen}
+m) 10 Scrolls "flitshu mican" of Satisfy Hunger {+,1}
+n) a Runed Rod of Frost Bolts of Charging {+,18} {Boldor, King of the Yeeks}
+o) an Ivory Rod {+,?}
+p) a Quartzite Ring of Blindness Resistance {+,11}
+
+
+  [Last Messages]
+
+
+You have slain the Algroth.
+You hit the Algroth for 15 damage.
+You hit the Algroth for 36 damage.
+You hit the Algroth for 14 damage.
+It tries to cast a spell, but fails.
+The Algroth misses you. (x2)
+The Algroth bites you for 3 damage.
+You hit the Algroth for 16 damage. (x2)
+It was a good hit!
+You hit the Algroth for 50 damage.
+You have slain the Algroth.
+You hit the Algroth for 14 damage.
+You hit the Algroth for 36 damage.
+You hit the Algroth for 34 damage.
+You hit the Algroth for 13 damage.
+You hit the Algroth for 34 damage.
+You have slain the Algroth.
+It gestures in shadow.
+Darkness surrounds you.
+The Algroth Warrior gropes around blindly.
+The Algroth gropes around blindly. (x2)
+You hit the Algroth Warrior for 37 damage.
+The Algroth Warrior is no longer confused.
+You miss the Algroth Warrior.
+It was a good hit!
+You hit the Algroth Warrior for 50 damage.
+You hit the Algroth Warrior for 35 damage.
+You miss the Algroth Warrior.
+You hit the Algroth Warrior for 36 damage.
+The Algroth Warrior claws you for 12 damage.
+The Algroth Warrior misses you.
+The Algroth Warrior bites you for 12 damage.
+You hit the Algroth Warrior for 36 damage.
+You miss the Algroth Warrior.
+The Algroth is no longer confused.
+You miss the Algroth Warrior.
+You hit the Algroth Warrior for 16 damage.
+The Algroth Warrior misses you. (x2)
+The Algroth Warrior bites you for 5 damage.
+It was a great hit!
+You hit the Algroth Warrior for 33 damage.
+You miss the Algroth Warrior. (x2)
+You hit the Algroth Warrior for 16 damage.
+The Half-ogre is no longer confused.
+You hit the Algroth Warrior for 15 damage.
+The Algroth Warrior misses you.
+You parry the Algroth Warrior's attack.
+The Algroth Warrior bites you for 10 damage.
+You hit the Algroth Warrior for 34 damage.
+The Algroth misses you.
+You parry the Algroth's attack.
+The Algroth bites you for 1 damage.
+You hit the Algroth Warrior for 36 damage.
+You hit the Algroth Warrior for 14 damage.
+The Algroth is no longer confused.
+The Algroth misses you.
+The Algroth claws you for 4 damage.
+The Algroth bites you for 3 damage.
+You miss the Algroth Warrior.
+The Algroth Warrior misses you. (x2)
+The Algroth Warrior bites you for 5 damage.
+You hit the Algroth Warrior for 34 damage.
+You hit the Algroth Warrior for 37 damage.
+You miss the Algroth Warrior.
+It creates a mesmerising illusion.
+You disbelieve the feeble spell.
+You hit the Algroth Warrior for 15 damage.
+You hit the Algroth Warrior for 14 damage.
+It fires an arrow for 23 damage!
+It fires an arrow for 15 damage!
+The Algroth misses you.
+The Algroth claws you for 4 damage.
+The Algroth bites you for 3 damage.
+The Algroth Warrior misses you.
+The Algroth Warrior claws you for 12 damage.
+The Algroth Warrior bites you for 7 damage.
+You miss the Algroth Warrior.
+You hit the Algroth Warrior for 13 damage.
+You miss the Algroth Warrior. (x2)
+The Algroth misses you. (x2)
+The Algroth bites you for 4 damage.
+You hit the Algroth Warrior for 16 damage.
+The Algroth Warrior claws you for 17 damage.
+The Algroth Warrior misses you.
+The Algroth Warrior bites you for 9 damage.
+You hit the Algroth Warrior for 37 damage.
+It points at you, incanting terribly!
+You have been given a light cut.
+It was a good hit!
+You hit the Algroth Warrior for 23 damage.
+It fires an arrow for 15 damage!
+You were defeated by an Algroth Archer, but the priests have saved you.
+
+
+  [Surroundings]
+
+Yeek                                                                            
+Rogue                                                                           
+Sharper                                                                         
+LEVEL 29(31)                                                                    
+XP     -4228                                                                    
+AU     91474                                                                    
+                                                                                
+[+---------]                                                                    
+STR:      15                                                                    
+INT:      10                                                                    
+WIS:      10                                                                    
+DEX:  18/***                                                                    
+CON:      18                                                                    
+Chr:       6                                                                    
+SN:    Sound ###########                                                        
+AC:       81       '                  #                                         
+HP: -14/ 253       '                  ##                                        
+MP:  40/  40 %*#%%^#                  '                                         
+ST:  10/  10       #               %##'                                         
+   DH FK           %               %                                            
+[****------]       #%%##%%%%%##  ###                                            
+                              #  %                                              
+                              #  ^                                              
+                         #^^^##  ^                                              
+                         # =||   ^                                              
+                         ^       ^                                              
+                         ^ >#^^^##                                              
+                         ^  #                                                   
+                         ^  #                                                   
+                         #  #                                                   
+                         #  #                                                   
+                         #  #                                                   
+                         #  #                                                   
+                         #/$#                                                   
+                         #.T^                                                   
+                         #@O#                                                   
+                         .TT.                                                   
+                         ...  O                                                 
+                                                                                
+                                                                                
+                         O                                                      
+                                                                                
+                                                                                
+Light cut                                                                       
+                                                  Fast +1     7 BpR    -50ft    
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Mughash, the Kobold Lord.
+You have slain Lagduf, the Snaga.
+You have slain Robin Hood, the Outlaw.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Boldor, King of the Yeeks.
+You have slain Ulfast, Son of Ulfang.
+You have slain The Rat King.
+You have slain Ugluk, the Uruk.
+You have assisted in slaying The Queen Ant.
+You have slain Sangahyando of Umbar.
+You have slain Khim, Son of Mim.
+You have slain Khufu, the Mummified King.
+You have slain Fire Phantom.
+You have assisted in slaying Lorgan, Chief of the Easterlings.
+
+

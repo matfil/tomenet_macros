@@ -1,0 +1,340 @@
+  [TomeNET 4.7.1 @ europe.tomenet.eu Character Dump]
+
+ Name        : Missile          Age                168       STR: 18/150       
+ Sex         : Male             Height              88       INT: 18/140       
+ Race        : Elf              Weight              99       WIS: 18/100       
+ Class       : Ranger           Social Class        36       DEX: 18/160       
+ Body        : Player                                        CON: 18/130       
+                                                             CHR: 18/120       
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           22      Level             39    Hit Points     -145/ 653   
+ +To MDamage        13      Experience   1041772    MP (Mana)       141/ 141   
+ +To RHit           59      Max Exp      1084922    Sanity             Sound   
+ +To RDamage        26      Exp to Adv.  1050000                               
+ Total AC          104      Gold          223174    Status              DEAD   
+                                                                               
+ Fighting    : Superb       Perception  : Superb       Blows/Round:  5         
+ Bows/Throw  : Legendary    Searching   : Very Good    Shots/Round:  5         
+ Saving Throw: Heroic       Disarming   : Excellent                            
+ Stealth     : Superb       Magic Device: Very Good    Infra-Vision: 30 feet   
+                                                                               
+          You are at -50 ft in Angband (Lothlorien).                           
+                                                                               
+                                                                               
+          You are the only child of a Teleri Ranger. You have light            
+          green eyes, straight blond hair, and a fair complexion.              
+                                                                               
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 0)
+ - Combat                                         15.750 [1.000]
+     - Weaponmastery                              01.000 [0.800]
+         o Sword-mastery                          00.000 [0.700]
+         . Axe-mastery                            00.000 [0.700]
+         . Blunt-mastery                          00.000 [0.700]
+         . Polearm-mastery                        00.000 [0.700]
+         . Combat Stances                         47.000 [-----]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               01.000 [0.800]
+     - Archery                                    10.000 [0.700]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            49.025 [0.495]
+         . Crossbow-mastery                       00.000 [0.450]
+     . Boomerang-mastery                          00.000 [0.400]
+ - Magic                                          13.232 [0.880]
+         . Mana                                   01.000 [0.700]
+         . Fire                                   00.000 [0.900]
+         . Water                                  00.000 [0.900]
+         . Air                                    00.000 [0.900]
+         . Earth                                  00.000 [0.900]
+         . Nature                                 00.000 [0.900]
+         . Conveyance                             00.000 [0.900]
+         . Divination                             39.200 [0.800]
+         . Temporal                               28.000 [0.700]
+         . Mind                                   00.000 [0.800]
+         . Meta                                   00.000 [0.800]
+         . Spell-power                            00.000 [0.450]
+     . Magic device                               01.000 [1.100]
+ - Sneakiness                                     05.362 [0.825]
+     . Stealth                                    00.000 [0.660]
+     . Dodging                                    00.000 [0.770]
+     . Calmness                                   32.570 [0.770]
+     . Trapping                                   01.000 [1.100]
+ - Health                                         02.000 [1.000]
+     . Swimming                                   00.000 [0.050]
+     . Climbing                                   00.000 [0.040]
+     . Digging                                    01.000 [1.200]
+
+
+  [Character Equipment]
+
+a) a Rapier {+,1} (1d6) (+0,+0) {on sale}
+b) a Rapier {+,1} (1d6) (+0,+0) {on sale}
+c) Moonwood Long Bow of Lothlorien {+,36}(x4)(+20,+24)(+1){disen}
+d) a Quartz Ring of Speed {+,42} (+7) {!k}
+e) an Indestructible Quartz Ring of Speed {+,40} (+5)
+f) (amulet)
+g) a Feanorian Lamp {+,34}
+h) The Soft Studded Leather 'Hithlum' {+,41} [5,+10] (+3)
+i) a Cloak of Lordly Resistance {+,28} [1,+30]
+j) a Golden Crown of Telepathy {+,42} [0,+12]
+k) Set of Cesti of Power {+,39}(+5,+5)[5,+10](+4){disenchantment}
+l) a Pair of Witan Boots of Speed {+,38} [8,+13] (-2) (+8)
+m) 33 Magic Arrows {+,2} (1d4) (+0,+0)
+n) a Mattock of Digging {+,30} (1d8) (+15,+15) (+3) (+5)
+
+
+  [Character Inventory]
+
+a) a Handbook of Beginner Cantrips {+,10} {on sale}
+b) an Elementalist's Handbook {+,18}
+c) a Handbook for Treasure Hunting {+,18}
+d) a Fireproof Codex of Scout {+,6} {!ksvd}
+e) 39 Copper Speckled Potions of Healing {+,16} {100% off}
+f) a Grey Potion of Dexterity {+,39}
+g) 23 Clotted Red Potions of Resistance {+,7} {100% off}
+h) 14 Scrolls "an ornab mebul" of Phase Door {+,1}
+i) 2 Scrolls "flitshu mican" of Satisfy Hunger {+,1}
+j) a Long Rod of Recall {+,13} (charging) {@R}
+k) a Brass Lantern of *Brightness* {+,23} (with 2347 turns of light)
+
+
+  [Last Messages]
+
+
+The Novice warrior dies from 108 damage.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Novice warrior Drunk.
+The Novice warrior Drunk dies from 108 damage.
+The Novice warrior wakes up.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Novice warrior.
+The Novice warrior dies from 116 damage.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Novice warrior.
+The Novice warrior dies from 116 damage.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Novice warrior.
+The Novice warrior dies from 112 damage.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Novice warrior.
+The Novice warrior dies from 108 damage.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Novice warrior.
+The Novice warrior dies from 116 damage.
+You have found 151 gold pieces worth of peridots.
+You have found 612 gold pieces worth of aquamarines.
+You have found 161 gold pieces worth of topazes.
+You have found 142 gold pieces worth of peridots. (x2)
+You see a Heavy Crossbow {?} (x4).
+You have found 444 gold pieces worth of garnets.
+You feel less resistant to electricity.
+You see an Espadon {?} (4d6).
+You see a Ball-and-Chain {?} (2d4).
+You see a Lead-Filled Mace {?} (3d7).
+You cannot run in that direction.
+You feel less resistant to poison.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Paladin.
+The Paladin cries out in pain from 112 damage.
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Paladin.
+It was a great hit!
+The Paladin dies from 203 damage.
+You see a Catapult Trap Kit {?}.
+You see a Scarab Amulet of Doom {?}.
+You see a Beryl Amulet of Wisdom {?}.
+You fall into the void. Brrrr! It's deadly cold.
+You hit the Acid hound for 18 damage.
+You hit the Acid hound for 16 damage.
+You intercept the Acid hound's attempt to run!
+You hit the Acid hound for 14 damage.
+You miss the Acid hound. (x2)
+You hit the Acid hound for 14 damage.
+You miss the Acid hound.
+You hit the Acid hound for 17 damage. (x2)
+You miss the Acid hound.
+One of your Scrolls "an ornab mebul" of Phase Door {+,1} (h) was destroyed!
+The Acid hound breathes acid for 17 damage!
+You hit the Acid hound for 17 damage.
+You hit the Acid hound for 18 damage.
+One of your Magic Arrows {+,2} (1d4) (+0,+0) (m) was destroyed!
+The Acid hound breathes acid for 16 damage!
+You hit the Acid hound for 16 damage.
+Khamul, the Black Easterling casts an nether ball of 199 damage!
+You feel your life draining away!
+You miss the Acid hound. (x3)
+You hit the Acid hound for 16 damage.
+You intercept the Acid hound's attempt to run!
+You hit the Acid hound for 14 damage.
+You miss the Acid hound.
+You hit the Acid hound for 16 damage.
+The Acid hound interferes with your attempt!
+The Magic Arrow {+,2} (1d4) (+0,+0) hits the Acid hound.
+The Acid hound dies from 108 damage.
+You hit the Acid hound for 19 damage.
+You miss the Acid hound.
+You hit the Acid hound for 16 damage.
+You have slain the Acid hound.
+The Acid hound breathes acid for 15 damage!
+You miss the Acid hound.
+You have 15 Scrolls "an ornab mebul" of Phase Door {+,1}.
+One of your Scrolls "an ornab mebul" of Phase Door {+,1} (h) was destroyed!
+The Acid hound breathes acid for 15 damage!
+The Olog Priest casts a fearful illusion.
+You refuse to be frightened.
+You feel very good.
+You have 39 Copper Speckled Potions of Healing {+,16} {100% off}.
+You feel yourself slow down.
+One of your Scrolls "flitshu mican" of Satisfy Hunger {+,1} (i) was destroyed!
+The Acid hound breathes acid for 16 damage!
+You miss the Acid hound.
+You hit the Acid hound for 14 damage.
+You hit the Acid hound for 15 damage.
+Khamul, the Black Easterling casts an nether ball of 396 damage!
+You feel your life draining away!
+You hit the Acid hound for 18 damage.
+You hit the Acid hound for 15 damage. (x2)
+You miss the Acid hound. (x2)
+You hit the Acid hound for 19 damage.
+You hit the Acid hound for 15 damage.
+You miss the Acid hound.
+Khamul, the Black Easterling casts an nether ball of 401 damage!
+You feel your life draining away!
+You were defeated by Khamul, the Black Easterling, but the priests have saved 
+ you.
+
+
+  [Surroundings]
+
+Elf                                                <      %%%##                 
+Ranger                                         #########%#                      
+Guard Captain                                            #  ###                 
+LEVEL 39(47)                R                            % ## D                 
+Xp #########        V                                    % #                    
+AU    223174                                             % #                    
+         (                                               % ##                   
+[+---------]                                             %  ####                
+STR:  18/150                 ###                       d %                      
+INT:  18/140                 .....                       %##%#%%#               
+WIS:  18/100                 "...                                               
+DEX:  18/160              ####..###                                             
+CON:  18/130              ....@.Z..                                             
+CHR:  18/120              ....Z....                                             
+SN:    Sound               ...Z...  ZZ                                          
+AC:      104               ...Z...  ZZ  d                                       
+HP:-145/ 653                 ...    Z  Z                                      # 
+MP: 141/ 141                             T                                    # 
+ST:  10/  10                      >     W                                     # 
+Bl DH FK                          w                                           # 
+[***-------]                                                                  # 
+                              #+ #                                            # 
+                                                  Fast +20    5 BpR    -50ft    
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Smeagol.
+You have slain Bullroarer the Hobbit.
+You have slain Mughash, the Kobold Lord.
+You have slain Lagduf, the Snaga.
+You have slain Brodda, the Easterling.
+You have slain Wormtongue, Agent of Saruman.
+You have slain Robin Hood, the Outlaw.
+You have slain The Borshin.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Golfimbul, the Hill Orc Chief.
+You have slain Boldor, King of the Yeeks.
+You have slain Ulfast, Son of Ulfang.
+You have slain Nar, the Dwarf.
+You have slain The Rat King.
+You have slain Gorbag, the Orc Captain.
+You have slain The Icky Queen.
+You have slain Lugdush, the Uruk.
+You have slain Ugluk, the Uruk.
+You have slain The Queen Ant.
+You have slain Azog, King of the Uruk-Hai.
+You have slain Ibun, Son of Mim.
+You have slain Sangahyando of Umbar.
+You have slain It.
+You have slain Angamaite of Umbar.
+You have slain Khim, Son of Mim.
+You have slain Khufu, the Mummified King.
+You have slain Ulwarth, Son of Ulfang.
+You have slain Mim, Betrayer of Turin.
+You have slain Uldor the Accursed.
+You have slain Lokkak, the Ogre Chieftain.
+You have slain Fasolt the Giant.
+You have slain Bert the Stone Troll.
+You have slain Bill the Stone Troll.
+You have slain Tom the Stone Troll.
+You have slain Fire Phantom.
+You have slain Lorgan, Chief of the Easterlings.
+You have slain Draebor, the Imp.
+You have slain Castamir the Usurper.
+You have slain Kavlax the Many-Headed.
+You have slain Mother Hydra.
+You have slain Uvatha the Horseman.
+You have slain Emperor Mimic.
+You have slain Shadowfax, steed of Gandalf.
+You have slain The Kung-Fu Yeek from Hell.
+You have slain Medusa, the Gorgon.
+You have slain Strygalldwir.
+You have slain Rogrog the Black Troll.
+You have slain Gorlim, Betrayer of Barahir.
+You have slain Glaryssa, Succubus Queen.
+You have slain Scylla.
+You have slain Charybdis.
+You have slain Eilinel the Entrapped.
+You have slain Waldern, King of Water.
+You have slain Quaker, Master of Earth.
+You have slain Ariel, Queen of Air.
+You have slain Vargo, Tyrant of Fire.
+You have slain Adunaphel the Quiet.
+You have slain Chaugnar Faugn, Horror from the Hills.
+You have slain Malekith the Accursed.
+You have slain Akhorahil the Blind.
+You have slain The Stormbringer.
+You have slain Ghatanothoa.
+You have slain Scatha the Worm.
+You have slain Yibb-Tstll, the Patient One.
+You have slain Itangast the Fire Drake.
+You have slain Charon, Boatman of the Styx.
+You have slain Ren the Unclean.
+You have slain Fafner the Dragon.
+You have slain Garm, Guardian of Hel.
+You have slain Eol, the Dark-Elf.
+You have slain Ulik the Troll.
+You have slain Harowen the Black Hand.
+You have slain Ji Indur Dawndeath.
+You have slain The Glass Golem.
+You have slain Eihort, the Thing in the Labyrinth.
+You have slain The Phoenix.
+You have slain Nidhogg, the Hel-Drake.
+You have slain The Lernaean Hydra.
+You have slain Hastur the Unspeakable.
+You have slain Ahtu, Avatar of Nyarlathotep.
+You have slain Dwar, Dog Lord of Waw.
+You have slain Nyogtha, the Thing that Should not Be.
+You have slain Daoloth, the Render of the Veils.
+You have slain Baphomet the Minotaur Lord.
+You have slain Artsi, the Champion of Chaos.
+You have slain Shudde M'ell.
+You have slain Saruman of Many Colours.
+You have slain Hoarmurath of Dir.
+You have slain The Cat Lord.
+You have slain Glaaki.
+You have slain Thuringwethil, the Vampire Messenger.
+You have slain Tselakus, the Dreadlord.
+You have slain Polyphemus, the Blind Cyclops.
+You have slain Rhan-Tegoth.
+You have slain Glaurung, Father of the Dragons.
+You have slain Tsathoggua, the Sleeper of N'kai.
+You have slain Hela, Queen of the Dead.
+You have slain Y'golonac.
+You have slain Cthugha, the Living Flame.
+You have slain Maeglin, the Traitor of Gondolin.
+You have slain Pazuzu, Lord of Air.
+
+

@@ -1,0 +1,10 @@
+
+{w{sMotD: Official site is {bwww.tomenet.eu{s. Recent game client is {v4.7.1{s.
+{w{sMotD: {bMumble voice talk{s IP: europe.tomenet.eu, port 23348, password: tomenet,
+{w{sMotD: download from mumble.sourceforge.net. {bIron Deep Dive Challenge{s at 30,34.
+{w{sMotD: {bIRC chat{s and in-game chat relay at irc.freenode.net, channel #tomenet.
+{w{sMotD: There's a glitch in using !X with spells. Maybe don't, for now.
+{w{sMotD: Monsters' UN_POWER melee effect now also drains some mana.
+{w{sMotD: It's no longer possible to undo skills after receiving an event reward.
+{w{yYour character Robber will be removed in 32 days.
+

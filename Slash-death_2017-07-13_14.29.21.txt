@@ -1,0 +1,378 @@
+  [TomeNET 4.7.1 @ europe.tomenet.eu Character Dump]
+
+ Name        : Slash            Age                 18       STR: 18/120       
+ Sex         : Male             Height             132       INT: 18/120       
+ Race        : Human            Weight             185       WIS: 18/120       
+ Class       : Ranger           Social Class         1       DEX: 18/190       
+ Body        : Player                                        CON: 18/150       
+                                                             CHR: 18/100       
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           75      Level             42    Hit Points     -181/ 714   
+ +To MDamage        29      Experience   1803489    MP (Mana)       105/ 105   
+ +To RHit           35      Max Exp      1814438    Sanity             Sound   
+ +To RDamage         5      Exp to Adv.  1850000                               
+ Total AC           70      Gold           56270    Status              DEAD   
+                                                                               
+ Fighting    : Legendary    Perception  : Superb       Blows/Round:  10        
+ Bows/Throw  : Heroic       Searching   : Good         Shots/Round:  2         
+ Saving Throw: Heroic       Disarming   : Very Good                            
+ Stealth     : Superb       Magic Device: Fair         Infra-Vision: 40 feet   
+                                                                               
+          You are at -1550 ft in Mordor.                                       
+                                                                               
+                                                                               
+          You are one of several children of a Serf. You are the               
+          black sheep of the family. You have blue eyes, straight              
+          blond hair, and an average complexion.                               
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 0)
+ - Combat                                         22.600 [1.000]
+     - Weaponmastery                              15.240 [0.800]
+         o Sword-mastery                          50.000 [0.700]
+         . Axe-mastery                            00.000 [0.700]
+         . Blunt-mastery                          00.000 [0.700]
+         . Polearm-mastery                        00.000 [0.700]
+         . Combat Stances                         49.000 [-----]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               50.000 [0.920]
+     - Archery                                    01.000 [0.700]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            01.000 [0.450]
+         . Crossbow-mastery                       00.000 [0.450]
+     . Boomerang-mastery                          00.000 [0.600]
+ - Magic                                          05.000 [0.800]
+         . Mana                                   01.000 [0.700]
+         . Fire                                   00.000 [0.900]
+         . Water                                  00.000 [0.900]
+         . Air                                    00.000 [0.900]
+         . Earth                                  00.000 [0.900]
+         . Nature                                 00.000 [0.900]
+         . Conveyance                             00.000 [0.900]
+         . Divination                             40.000 [0.800]
+         . Temporal                               00.000 [0.700]
+         . Mind                                   00.000 [0.800]
+         . Meta                                   00.000 [0.800]
+         . Spell-power                            00.000 [0.450]
+     . Magic device                               01.000 [1.000]
+ - Sneakiness                                     08.725 [0.750]
+     . Stealth                                    00.000 [0.600]
+     . Dodging                                    37.100 [0.700]
+     . Calmness                                   00.000 [0.700]
+     . Trapping                                   01.000 [1.100]
+ - Health                                         02.000 [1.000]
+     . Swimming                                   00.000 [0.050]
+     . Climbing                                   00.000 [0.050]
+     . Digging                                    01.000 [1.200]
+
+
+  [Character Equipment]
+
+a) Broad Sword of Extra Attacks {+,36}(2d6)(+10,+13)(+3at){Mephistopheles, Lord of Hell}
+b) Smallsword (*Defender*) {+,30}(1d6)(-6,+0)(+3){poi/dark/blind}
+c) a Long Bow of Lothlorien (nether) {+,27} (x4) (+17,+5) (+1)
+d) a Quartz Ring of Speed {+,45} (+10) {!ksv}
+e) a Quartz Ring of Speed {+,45} (+10) {!ksv}
+f) an Aquamarine Amulet of Trickery {+,39} (+4) {25% off}
+g) a Feanorian Lamp {+,32}
+h) an Elven Frock [poison,sound] {+,30} [2,+18] (+2 to stealth) {!k}
+i) The Shadow Cloak 'Fingolfin' {+,32} [6,+7]
+j) an Iron Crown of Telepathy {+,36} [0,+5]
+k) The Set of Elven Gloves of Mindon {+,44} [1,+16] (+4)
+l) a Pair of Hard Leather Boots of Speed {+,34} [3,+0] (+9)
+m) The Seeker Arrow 'Mirdain' {+,31} (4d4) (+0,+0)
+n) a Dwarven Pick of Digging {+,21} (1d4) (+15,+15) (+3) (+5)
+
+
+  [Character Inventory]
+
+a) a Codex {+,11} {!k}
+b) a Sprig of Athelas {+,14}
+c) 7 Coagulated Crimson Potions of Speed {+,1} {!k}
+d) 26 Copper Speckled Potions of Healing {+,14} {!k}
+e) 6 Hazy Potions of Restore Life Levels {+,8} {!k}
+f) a Misty Potion of Wisdom {+,40}
+g) 17 Clotted Red Potions of Resistance {+,8} {!k}
+h) a Crimson Potion of Cure Critical Insanity {+,12}
+i) 7 Scrolls "bucon reafid" of Teleportation {+,2} {!k}
+j) 2 Scrolls "flitshu mican" of Satisfy Hunger {+,1} {!k}
+k) 2 Long Rods of Recall {+,10} {@R!ksvd}
+l) a Zirconium Rod of Disarming {+,16}
+m) a Chromium Rod of Lightning Bolts of Charging {+,19}
+n) a Zinc Rod of Trap Location of Simplicity {+,14} {@/Trap!k}
+
+
+  [Last Messages]
+
+
+It was a great hit!
+You hit Artsi, the Champion of Chaos for 76 damage.
+You hit Artsi, the Champion of Chaos for 44 damage.
+You hit Artsi, the Champion of Chaos for 27 damage. (x2)
+You hit Artsi, the Champion of Chaos for 26 damage.
+You hit Artsi, the Champion of Chaos for 44 damage.
+It was a good hit!
+You hit Artsi, the Champion of Chaos for 39 damage.
+Artsi, the Champion of Chaos misses you.
+Artsi, the Champion of Chaos hits you for 43 damage.
+You feel your life slipping away!
+Artsi, the Champion of Chaos hits you for 54 damage.
+You feel your life slipping away!
+Artsi, the Champion of Chaos parries.
+You miss Artsi, the Champion of Chaos.
+Artsi, the Champion of Chaos parries.
+You hit Artsi, the Champion of Chaos for 28 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 46 damage. (x2)
+You hit Artsi, the Champion of Chaos for 44 damage.
+You hit Artsi, the Champion of Chaos for 42 damage.
+You hit Artsi, the Champion of Chaos for 38 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 44 damage.
+You hit Artsi, the Champion of Chaos for 26 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 46 damage.
+You hit Artsi, the Champion of Chaos for 28 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 28 damage.
+Artsi, the Champion of Chaos parries.
+You dodge Artsi, the Champion of Chaos' attack!
+Artsi, the Champion of Chaos hits you for 51 damage.
+You feel your life slipping away!
+Artsi, the Champion of Chaos hits you for 64 damage.
+You keep hold of your life force!
+You hit Artsi, the Champion of Chaos for 40 damage.
+You hit Artsi, the Champion of Chaos for 26 damage.
+Artsi, the Champion of Chaos parries.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 24 damage.
+You miss Artsi, the Champion of Chaos. (x2)
+Artsi, the Champion of Chaos blocks.
+You hit Artsi, the Champion of Chaos for 27 damage.
+Artsi, the Champion of Chaos blocks.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 29 damage.
+Artsi, the Champion of Chaos parries.
+You hit Artsi, the Champion of Chaos for 25 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 28 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 40 damage.
+You hit Artsi, the Champion of Chaos for 47 damage.
+Artsi, the Champion of Chaos parries.
+You hit Artsi, the Champion of Chaos for 27 damage.
+You intercept Artsi, the Champion of Chaos' attempt to cast!
+You hit Artsi, the Champion of Chaos for 28 damage.
+You hit Artsi, the Champion of Chaos for 44 damage.
+You hit Artsi, the Champion of Chaos for 26 damage.
+Artsi, the Champion of Chaos parries.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 44 damage.
+You hit Artsi, the Champion of Chaos for 24 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 29 damage.
+You hit Artsi, the Champion of Chaos for 42 damage.
+You feel very good.
+You have 26 Copper Speckled Potions of Healing {+,14} {!k}.
+Artsi, the Champion of Chaos blocks.
+Artsi, the Champion of Chaos breathes chaos for 450 damage!
+You hit Artsi, the Champion of Chaos for 43 damage.
+You hit Artsi, the Champion of Chaos for 44 damage.
+Artsi, the Champion of Chaos parries.
+It was a great hit!
+You hit Artsi, the Champion of Chaos for 51 damage.
+You hit Artsi, the Champion of Chaos for 25 damage.
+Artsi, the Champion of Chaos parries.
+It was a good hit!
+You hit Artsi, the Champion of Chaos for 43 damage.
+You hit Artsi, the Champion of Chaos for 28 damage.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 43 damage.
+You hit Artsi, the Champion of Chaos for 41 damage.
+You miss Artsi, the Champion of Chaos. (x2)
+Artsi, the Champion of Chaos parries.
+You miss Artsi, the Champion of Chaos.
+You hit Artsi, the Champion of Chaos for 24 damage.
+Artsi, the Champion of Chaos parries.
+You hit Artsi, the Champion of Chaos for 40 damage.
+You hit Artsi, the Champion of Chaos for 26 damage.
+You hit Artsi, the Champion of Chaos for 24 damage.
+You miss Artsi, the Champion of Chaos.
+Artsi, the Champion of Chaos breathes chaos for 450 damage!
+You were defeated by Artsi, the Champion of Chaos, but the priests have saved 
+ you.
+
+
+  [Surroundings]
+
+Human        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+Ranger       ^^^.#^#^^^##^^^#^###^^#^#####^^^^~.#^#^^#####^^#^^#^#^^^^##^####^^ 
+Supervisor   ##...########...#############.~...~.#############################^ 
+LEVEL 42(49) ##.....######...############...~.~~~####################.........^ 
+Xp    -46511 .........####...############.....~~....................'.........^ 
+AU     56270 ..........###...^##########....~~..~.J...@h............'.........^ 
+             #^^.......###...^##########..^^...~~~.#..##############....~~~~..^ 
+[+---------] ##^#......###...^^########.....~.~~~~.~~~.^##########~#~.~.~~.~..^ 
+STR:  18/120 #####....####...###########.......~~.~~~~~^^#####.#...~~~.~~~....^ 
+INT:  18/120 #######..####...###########....~.~~....~~~^~####.~~~.~^~~~...~~.#^ 
+WIS:  18/120 #######..####.:............~~.~~~^^..#..#~~~..#.~~~~.^^^..#.~~~##^ 
+DEX:  18/190 #######..####~.............~.~~~.~^...##..~~~~.~~~^^~~^.###.~~...^ 
+CON:  18/150 #######..###.~~~~.###.#.####......^######.~..~.~~^^^~..#####.~~..^ 
+CHR:  18/100 #######.......~~.###.~.~.###..:~~.^##.#>###.~~~~.#.##.#######~~~.^ 
+SN:    Sound ########......~~~.##..~.~.###.~~~.####~.###...~~#.###########.~~.^ 
+AC:       70 .............~.~~..~..~~~.###.~.~:###.~~~#...~..##############~~~^ 
+HP:-181/ 714 ..............~...~~~.~...####.....#..~.....~....#############~~.^ 
+MP: 105/ 105 #########..##.~~.~~~..~~~.####.~.~.#.......~......############~..^ 
+ST:  10/  10 ########.~~...~..~~.#.~~~.####...~.................###########..~^ 
+Bl DH        #######.~^.~^~~~.......~.........b~~...............##^########.~.^ 
+[*******---] ########~.~~^~~.~......~~~~.~.......................#^^########~~^ 
+             ####^##~...^^~.~#######:..~~.~~~~..##...............##^#######.~~^ 
+             ###^^#.~~~.###..#######.~...~.~~~....................##########~:^ 
+             #######.....############.#...~~~..~.#...............###########..^ 
+             #######..~~#^^###########.......#.~.#...............###########.#^ 
+             ######<~~~~.^#######^###.....p.##~.###.............##############^ 
+             #######~~.~#########^^##........#.####.............#############~^ 
+             ..:....~.~.....................#~.#####...........#############.#^ 
+             ..:....~........................^^######......=..##############.~^ 
+             #####...==.#############........#.########.....#################.^ 
+             ###.~~~~~.###############......#############.####################^ 
+             ####~~~..##################....############ #####################^ 
+             ###.~~~###################...^.############# ####################^ 
+             d.#.~~.###################.~.##############.#####################^ 
+             .~~..~:########..............############### ####################^ 
+             ~..~~~~.#######..............############## ###########^^########^ 
+             ..~..~~#########............#######...................##^^#######^ 
+             ..................................+...........^.......##^########^ 
+             ...............^..................'.........|..=......###########^ 
+             ............#^#####################......!!/-.........###########^ 
+             .............######################......./[{.._......###########^ 
+             ###########........###################..####}?###################^ 
+             ..##########........##################..####_.###################^ 
+             ...###############..##################..####..###################^ 
+                                                  Fast +48   10 BpR  -1550ft *  
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Smeagol.
+You have slain Bullroarer the Hobbit.
+You have slain The disembodied hand that strangled people.
+You have slain Mughash, the Kobold Lord.
+You have slain Vort the Kobold Queen.
+You have slain Lagduf, the Snaga.
+You have slain Brodda, the Easterling.
+You have slain Wormtongue, Agent of Saruman.
+You have slain Robin Hood, the Outlaw.
+You have slain The Borshin.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Golfimbul, the Hill Orc Chief.
+You have slain Boldor, King of the Yeeks.
+You have slain Ulfast, Son of Ulfang.
+You have slain Nar, the Dwarf.
+You have slain The Rat King.
+You have slain Gorbag, the Orc Captain.
+You have slain The Icky Queen.
+You have slain Bolg, Son of Azog.
+You have slain Lugdush, the Uruk.
+You have slain Ugluk, the Uruk.
+You have slain The Queen Ant.
+You have slain Azog, King of the Uruk-Hai.
+You have slain Ibun, Son of Mim.
+You have slain Sangahyando of Umbar.
+You have slain Angamaite of Umbar.
+You have slain Khim, Son of Mim.
+You have slain Khufu, the Mummified King.
+You have slain Ulwarth, Son of Ulfang.
+You have slain Mim, Betrayer of Turin.
+You have slain Uldor the Accursed.
+You have slain Lokkak, the Ogre Chieftain.
+You have slain Bokrug.
+You have slain Fasolt the Giant.
+You have slain Bert the Stone Troll.
+You have slain Bill the Stone Troll.
+You have slain Fire Phantom.
+You have slain The Wight-King of the Barrow-downs.
+You have slain Lorgan, Chief of the Easterlings.
+You have slain Giganto, the Gargantuan.
+You have slain Draebor, the Imp.
+You have slain Castamir the Usurper.
+You have slain Kavlax the Many-Headed.
+You have slain Mother Hydra.
+You have slain Uvatha the Horseman.
+You have slain Emperor Mimic.
+You have slain Shadowfax, steed of Gandalf.
+You have slain Jaws.
+You have slain The Kung-Fu Yeek from Hell.
+You have slain Medusa, the Gorgon.
+You have slain Strygalldwir.
+You have slain Ubbo-Sathla, the Unbegotten Source.
+You have slain Rogrog the Black Troll.
+You have slain Gorlim, Betrayer of Barahir.
+You have slain Scylla.
+You have slain Charybdis.
+You have slain Eilinel the Entrapped.
+You have slain Waldern, King of Water.
+You have slain Quaker, Master of Earth.
+You have slain Ariel, Queen of Air.
+You have slain Vargo, Tyrant of Fire.
+You have slain Adunaphel the Quiet.
+You have slain Utgard-Loke.
+You have slain Malekith the Accursed.
+You have slain Akhorahil the Blind.
+You have slain Scatha the Worm.
+You have slain Yibb-Tstll, the Patient One.
+You have slain Itangast the Fire Drake.
+You have slain Charon, Boatman of the Styx.
+You have slain Ren the Unclean.
+You have slain Fafner the Dragon.
+You have slain Garm, Guardian of Hel.
+You have slain Eol, the Dark-Elf.
+You have slain Ulik the Troll.
+You have slain Harowen the Black Hand.
+You have slain Ji Indur Dawndeath.
+You have slain The Glass Golem.
+You have slain The Phoenix.
+You have slain Nidhogg, the Hel-Drake.
+You have slain The Lernaean Hydra.
+You have slain Hastur the Unspeakable.
+You have slain Ahtu, Avatar of Nyarlathotep.
+You have slain Dwar, Dog Lord of Waw.
+You have slain Nyogtha, the Thing that Should not Be.
+You have slain Daoloth, the Render of the Veils.
+You have slain Baphomet the Minotaur Lord.
+You have slain Shudde M'ell.
+You have slain Saruman of Many Colours.
+You have slain Uriel, Angel of Fire.
+You have slain Azriel, Angel of Death.
+You have slain Gabriel, the Messenger.
+You have slain Hoarmurath of Dir.
+You have slain The Cat Lord.
+You have slain Hypnos, Lord of Sleep.
+You have slain Glaaki.
+You have slain Thuringwethil, the Vampire Messenger.
+You have slain Tselakus, the Dreadlord.
+You have slain Polyphemus, the Blind Cyclops.
+You have slain Surtur, the Fire Giant.
+You have slain Khamul, the Black Easterling.
+You have slain Null, the Living Void.
+You have slain Omarax the Eye Tyrant.
+You have slain Hela, Queen of the Dead.
+You have slain Mardra, rider of the Gold Loranth.
+You have slain Yig, Father of Serpents.
+You have slain Vlad Dracula, Prince of Darkness.
+You have slain The Mouth of Sauron.
+You have slain Thiazi, the Storm Giant.
+You have slain The Tarrasque.
+You have slain Jormungand the Midgard Serpent.
+You have slain Gothmog, the High Captain of Balrogs.
+
+

@@ -1,0 +1,270 @@
+  [TomeNET 4.7.1 @ europe.tomenet.eu Character Dump]
+
+ Name        : Robber           Age                 19       STR:     15       
+ Sex         : Male             Height              25       INT:     11       
+ Race        : Yeek             Weight             173       WIS:     10       
+ Class       : Rogue            Social Class        78       DEX: 18/211       
+ Body        : Player                                        CON:     18       
+                                                             CHR:      7       
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           64      Level             30    Hit Points      -14/ 261   
+ +To MDamage        22      Experience     90926    MP (Mana)        41/  41   
+ +To RHit           35      Max Exp        98214    Sanity             Sound   
+ +To RDamage        15      Exp to Adv.   100000                               
+ Total AC           93      Gold          102759    Status              DEAD   
+                                                                               
+ Fighting    : Legendary    Perception  : Superb       Blows/Round:  7         
+ Bows/Throw  : Heroic       Searching   : Very Good    Shots/Round:  2         
+ Saving Throw: Superb       Disarming   : Excellent                            
+ Stealth     : Legendary    Magic Device: Poor         Infra-Vision: 0 feet    
+                                                                               
+          You are at -50 ft in Mordor.                                         
+                                                                               
+                                                                               
+          You are one of several children of a Landed Knight. You are          
+          a well liked child. You have dark brown eyes, curly black            
+          hair, and an average complexion.                                     
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 0)
+ - Combat                                         15.880 [1.200]
+     - Weaponmastery                              13.460 [0.700]
+         - Sword-mastery                          31.200 [0.600]
+             . Critical-strike                    00.000 [0.900]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               01.000 [0.900]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            00.000 [0.350]
+         . Crossbow-mastery                       00.000 [0.350]
+     . Boomerang-mastery                          00.000 [0.600]
+ - Magic                                          07.000 [0.600]
+         . Air                                    00.000 [0.750]
+         . Conveyance                             00.000 [0.750]
+         . Necromancy                             00.000 [1.000]
+         . Traumaturgy                            00.000 [1.000]
+         . Aura of Fear                           00.000 [1.000]
+         . Shivering Aura                         00.000 [1.000]
+         . Aura of Death                          00.000 [1.000]
+     . Magic device                               01.000 [0.950]
+ - Sneakiness                                     12.970 [0.900]
+     . Stealth                                    33.200 [0.700]
+     . Stealing                                   33.000 [1.000]
+     . Backstabbing                               01.000 [1.000]
+     . Dodging                                    01.000 [0.900]
+     . Calmness                                   00.000 [0.800]
+     . Trapping                                   01.000 [1.000]
+ - Health                                         01.000 [1.000]
+     . Swimming                                   00.000 [0.060]
+     . Climbing                                   00.000 [0.040]
+     . Digging                                    00.000 [1.100]
+
+
+  [Character Equipment]
+
+a) Dagger (Defender) (base,nether) {+,31}(1d4)(+20,+21)[+8](+1stl)
+b) a Dagger {+,1} (1d4) (+0,+0)
+c) a Long Bow of Lothlorien {+,24} (x4) (+16,+15) (+2)
+d) a Glass Ring of Toughness {+,?}
+e) a Glass Ring of Toughness {+,25} (+4) {stolen}
+f) a Malachite Amulet of Serpents {+,15} [+4] (+6)
+g) a Brass Lantern {+,1} (with 12160 turns of light) {50% off}
+h) a Martial Arts Gown {+,18} [1,+17] (+1)
+i) a Kolla {+,26} [3,+11] (+2) {stolen}
+j) Cloth Hat of Brilliance {+,15}[1,+10](+1){excellent-Azog, King of the Uruk-Hai}
+k) a Set of Cesti of Agility {+,31} [5,+9] (+5) {stolen}
+l) a Pair of Hard Leather Boots of Stealth {+,20} [3,+8] (+3)
+m) 15 Magic Arrows {+,?} (1d4) {!k}
+n) a Flint {+,9}
+
+
+  [Character Inventory]
+
+a) a Codex {+,4} {on sale}
+b) a Lembas {+,6}
+c) 3 Flasks of Oil {+,1}
+d) 4 Coagulated Crimson Potions of Speed {+,1} {stolen}
+e) 11 Chartreuse Potions of Cure Critical Wounds {+,1}
+f) a Hazy Potion of Restore Life Levels {+,8} {on sale}
+g) 29 Scrolls "an ornab mebul" of Phase Door {+,1} {75% off}
+h) 15 Scrolls "bucon reafid" of Teleportation {+,5} {stolen}
+i) 4 Scrolls "fuerk whonsef" of Word of Recall {+,1} {@R}
+j) 36 Scrolls "forkli auser" of Identify {+,1} {on sale}
+k) 14 Scrolls "flitshu mican" of Satisfy Hunger {+,1}
+l) 2 Copper Rods of Door/Stair Location {+,6}
+m) 2 Zinc Rods of Trap Location {+,1}
+
+
+  [Last Messages]
+
+
+You hit the Vampire for 15 damage.
+You miss the Vampire.
+You hit the Vampire for 34 damage.
+It was a great hit!
+You hit the Vampire for 36 damage.
+The Vampire misses you. (x4)
+You hit the Vampire for 14 damage.
+It was a great hit!
+You hit the Vampire for 35 damage.
+You hit the Vampire for 13 damage.
+StevenLone sets foot into the world.
+You hit the Vampire for 14 damage.
+You hit the Vampire for 35 damage.
+You hit the Vampire for 36 damage.
+The Vampire flees in terror!
+You backstab the fleeing the Vampire for 40 damage.
+You have destroyed the Vampire.
+You hit the Vampire for 37 damage.
+You hit the Vampire for 34 damage.
+You hit the Vampire for 15 damage.
+You hit the Vampire for 37 damage.
+You miss the Vampire.
+It was a good hit!
+You hit the Vampire for 50 damage.
+You hit the Vampire for 35 damage.
+You hit the Vampire for 13 damage.
+The Vampire misses you.
+You parry the Vampire's attack.
+The Vampire misses you. (x2)
+It tries to cast a spell, but fails.
+It was a great hit!
+You hit the Vampire for 71 damage.
+The Vampire flees in terror!
+The Vampire points at you, incanting terribly!
+You have been given a light cut.
+You backstab the fleeing the Vampire for 17 damage.
+You have destroyed the Vampire.
+You feel something roll beneath your feet.
+The Vampire points at you and curses horribly.
+You resist the effects!
+You hit the Vampire for 34 damage.
+You miss the Vampire.
+You hit the Vampire for 34 damage.
+You hit the Vampire for 14 damage.
+You miss the Vampire.
+You hit the Vampire for 16 damage. (x2)
+You hit the Vampire for 15 damage.
+It points at you and curses horribly.
+You hit the Vampire for 37 damage.
+You hit the Vampire for 16 damage.
+You hit the Vampire for 37 damage.
+You miss the Vampire.
+It was a good hit!
+You hit the Vampire for 26 damage.
+You miss the Vampire.
+You hit the Vampire for 35 damage.
+The Vampire flees in terror!
+You backstab the fleeing the Vampire for 39 damage.
+You have destroyed the Vampire.
+You feel very good.
+You are no longer bleeding.
+You have 13 Chartreuse Potions of Cure Critical Wounds {+,1}.
+The Vampire points at you, incanting terribly!
+You have been given a light cut.
+You feel very good.
+You are no longer bleeding.
+You have 12 Chartreuse Potions of Cure Critical Wounds {+,1}.
+The Vampire misses you.
+The Vampire hits you for 4 damage.
+The Vampire misses you.
+The Vampire bites you for 6 damage.
+You feel your life draining away!
+It points at you and curses horribly.
+You have been given a graze.
+You feel very good.
+You are no longer bleeding.
+You have 11 Chartreuse Potions of Cure Critical Wounds {+,1}.
+The Vampire hits you for 1 damage.
+The Vampire misses you.
+The Vampire bites you for 8 damage.
+You feel your life draining away!
+The Vampire misses you.
+You see a Quarterstaff {?} (4d4).
+It points at you, incanting terribly!
+You resist the effects!
+It points at you and curses horribly.
+You have been given a graze.
+The Vampire points at you and curses horribly.
+You resist the effects!
+You see a Whip {?} (1d4) on a pile.
+It points at you, incanting terribly!
+You have been given a light cut.
+It points at you and curses horribly.
+You have been given a bad cut.
+You were defeated by a Vampire, but the priests have saved you.
+
+
+  [Surroundings]
+
+Yeek                       #   ^                                                
+Rogue                      ##  #                                                
+Thief                       ^  #                                                
+LEVEL 30(31)                ^  ^                                                
+Xp     -9074                ^  ^                                                
+AU    102759                ^  ^                                                
+                            ^  ^                                                
+[+---------]                ^  ^  ^^%%%%                                        
+STR:      15                #  ###%    %%#%                                     
+INT:      11                #       /  (\)##                                    
+WIS:      10                ^^         []=~#                                    
+DEX:  18/211                 #^^%#%%%^%##  ##                                   
+CON:      18                           #/ !!                                    
+CHR:       7                           #{%^^%                                   
+SN:    Sound                           % ^                                      
+AC:       93                           %(^                                      
+HP: -14/ 261                           %(*                                      
+MP:  41/  41                           #"^                                      
+ST:  10/  10                           #?^                                      
+   DH FK                               #|^^^^^^^^^                              
+(27,13)                                #????@\V]{(                              
+                                       ###########                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Bad cut                                                                         
+                                                  Fast +1     7 BpR    -50ft *  
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Mughash, the Kobold Lord.
+You have slain Lagduf, the Snaga.
+You have slain Robin Hood, the Outlaw.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Ulfast, Son of Ulfang.
+You have slain The Rat King.
+You have slain Ugluk, the Uruk.
+You have assisted in slaying The Queen Ant.
+You have slain Sangahyando of Umbar.
+You have slain Khim, Son of Mim.
+You have slain Khufu, the Mummified King.
+You have assisted in slaying Lorgan, Chief of the Easterlings.
+
+

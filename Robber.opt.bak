@@ -1,0 +1,387 @@
+
+
+# Automatic option dump
+
+# Option 'Rogue-like keymap (for covering lack of a numpad)'
+X:rogue_like_commands
+
+# Option 'Display hints/warnings for new players'
+Y:newbie_hints
+
+# Option 'Censor certain swear words in public messages'
+Y:censor_swearing
+
+# Option 'Highlight chat messages containing your name'
+Y:hilite_chat
+
+# Option 'Beep on chat messages containing your name'
+Y:hibeep_chat
+
+# Option 'Beep when receiving a private message'
+X:page_on_privmsg
+
+# Option 'Beep when receiving a private message while AFK'
+Y:page_on_afk_privmsg
+
+# Option 'Double height of the map shown in the main window'
+X:big_map
+
+# Option 'Certain fonts only: Walls look like solid blocks'
+X:font_map_solid_walls
+
+# Option 'Animate lantern light, flickering in colour'
+Y:view_animated_lite
+
+# Option 'Generally enable lighting/shading for wall grids'
+Y:wall_lighting
+
+# Option 'Use special colors for lamp-lit wall grids'
+Y:view_lamp_walls
+
+# Option 'Use special colors to shade wall grids'
+Y:view_shade_walls
+
+# Option 'Generally enable lighting/shading for floor grids'
+Y:floor_lighting
+
+# Option 'Use special colors for lamp-lit floor grids'
+Y:view_lamp_floor
+
+# Option 'Use special colors to shade floor grids'
+Y:view_shade_floor
+
+# Option 'Lamp light affects more floor/wall types'
+X:view_lite_extra
+
+# Option 'Beep/message about critical hitpoints/sanity'
+X:alert_hitpoint
+
+# Option 'Beep/message about critically low mana pool'
+X:alert_mana
+
+# Option 'Beep when taking damage while AFK'
+X:alert_afk_dam
+
+# Option 'Beep when taking damage while looking elsewhere'
+X:alert_offpanel_dam
+
+# Option 'Show experience bar instead of a number'
+X:exp_bar
+
+# Option 'List only unslain uniques for your local party'
+X:uniques_alive
+
+# Option 'Beep on attacking a unique you already killed'
+X:warn_unique_credit
+
+# Option 'Chat only with players on the same floor'
+X:limit_chat
+
+# Option 'Don't show AFK toggle messages of other players'
+X:no_afk_msg
+
+# Option 'Display overview resistance/boni page at startup'
+X:overview_startup
+
+# Option 'Allow users to page you (recommended!)'
+Y:allow_paging
+
+# Option 'Beep on misc warnings and errors'
+Y:ring_bell
+
+# Option 'Stats are represented in a linear way'
+X:linear_stats
+
+# Option 'Show the experience needed for next level'
+Y:exp_need
+
+# Option 'Show dungeon level in feet'
+Y:depth_in_feet
+
+# Option 'Display newbie suicides'
+Y:newb_suicide
+
+# Option 'Show weights in object listings'
+Y:show_weights
+
+# Option 'Add hourly time stamps to chat window'
+X:time_stamp_chat
+
+# Option 'Hide unusable skills'
+Y:hide_unusable_skills
+
+# Option 'Don't display known 'flavours' in item names'
+X:short_item_names
+
+# Option 'Don't clear messages in the top line if avoidable'
+X:keep_topline
+
+# Option 'Add target informations to the message history'
+X:target_history
+
+# Option 'Suppress server messages as far as possible'
+X:taciturn_messages
+
+# Option 'Always show lists in item/skill selection'
+Y:always_show_lists
+
+# Option 'Disable weather visuals and sounds completely'
+X:no_weather
+
+# Option 'Show a more compact player list in @ screen'
+X:player_list
+
+# Option 'Compacts the player list in @ screen even more'
+X:player_list2
+
+# Option 'Flash own character icon after far relocation'
+X:flash_player
+
+# Option 'Hilite own character icon with the cursor'
+X:hilite_player
+
+# Option 'Use consistent symbols and colours for players'
+X:consistent_players
+
+# Option 'Show animated text colours in sub-windows'
+Y:recall_flicker
+
+# Option 'Skip safety question when selling items'
+X:no_verify_sell
+
+# Option 'Skip safety question when destroying items'
+X:no_verify_destroy
+
+# Option 'Set 'AFK mode' automatically'
+X:auto_afk
+
+# Option 'Disconnect when idle for 30s while starving'
+Y:idle_starve_kick
+
+# Option 'Prevent floating for a short while after death'
+X:safe_float
+
+# Option 'Abort macro if item is missing or an action fails'
+Y:safe_macros
+
+# Option 'Remove unique monster inscription on pick-up'
+X:auto_untag
+
+# Option 'Clear @-inscriptions on taking item ownership'
+X:clear_inscr
+
+# Option 'Use additional predefined auto-inscriptions'
+X:auto_inscribe
+
+# Option 'Merge inscriptions when stacking'
+Y:stack_force_notes
+
+# Option 'Merge discounts when stacking'
+Y:stack_force_costs
+
+# Option 'Allow weapons and armor to stack'
+Y:stack_allow_items
+
+# Option 'Allow wands/staffs/rods to stack'
+Y:stack_allow_wands
+
+# Option 'For ammo/misc items always operate on whole stack'
+X:whole_ammo_stack
+
+# Option 'Repeat obvious commands (eg search/tunnel)'
+Y:always_repeat
+
+# Option 'Pick things up by default'
+X:always_pickup
+
+# Option 'Use old target by default'
+Y:use_old_target
+
+# Option 'Stop the retaliator when protected by GoI etc'
+X:autooff_retaliator
+
+# Option 'Don't melee if other auto-retaliation ways fail'
+X:fail_no_melee
+
+# Option 'Scroll the screen more frequently'
+Y:wide_scroll_margin
+
+# Option 'Automatically set target to the nearest enemy'
+X:auto_target
+
+# Option 'Thin down screen flush signals to avoid freezing'
+Y:thin_down_flush
+
+# Option 'Disable delays from flush signals'
+X:disable_flush
+
+# Option 'Run past stairs'
+X:find_ignore_stairs
+
+# Option 'Run through open doors'
+Y:find_ignore_doors
+
+# Option 'Run past known corners'
+Y:find_cut
+
+# Option 'Run into potential corners'
+Y:find_examine
+
+# Option 'Disturb whenever any monster moves'
+X:disturb_move
+
+# Option 'Disturb whenever viewable monster moves'
+X:disturb_near
+
+# Option 'Disturb whenever map panel changes'
+X:disturb_panel
+
+# Option 'Disturb whenever player state changes'
+X:disturb_state
+
+# Option 'Disturb whenever boring things happen'
+X:disturb_minor
+
+# Option 'Disturb whenever various things happen'
+X:disturb_other
+
+# Option 'Map remembers all perma-lit grids'
+Y:view_perma_grids
+
+# Option 'Map remembers all torch-lit grids'
+X:view_torch_grids
+
+# Option 'Reduce lite-radius when running'
+X:view_reduce_lite
+
+# Option 'Reduce view-radius in town'
+X:view_reduce_view
+
+# Option 'Automatically open doors'
+Y:easy_open
+
+# Option 'Automatically disarm traps (except under items)'
+X:easy_disarm
+
+# Option 'Automatically tunnel walls'
+X:easy_tunnel
+
+# Option 'Use audio system for page/alert, if available'
+Y:audio_paging
+
+# Option 'Play page/alert sounds at master volume'
+X:paging_master_vol
+
+# Option 'Play page/alert sounds at maximum volume'
+X:paging_max_vol
+
+# Option 'Prevent re-playing sfx received after <100ms gap'
+Y:no_ovl_close_sfx
+
+# Option 'Allow overlapping combat sounds of same type'
+Y:ovl_sfx_attack
+
+# Option 'Don't play melee/launcher attack/miss sound fx'
+X:no_combat_sfx
+
+# Option 'Don't play basic spell/device attack sound fx'
+X:no_magicattack_sfx
+
+# Option 'Don't play attack-avoiding/neutralizing sound fx'
+X:no_defense_sfx
+
+# Option 'Skip every second attack sound'
+X:half_sfx_attack
+
+# Option 'Skip attack sounds based on speed and bpr'
+X:cut_sfx_attack
+
+# Option 'Allow overlapping command sounds of same type'
+Y:ovl_sfx_command
+
+# Option 'Allow overlapping misc sounds of same type'
+Y:ovl_sfx_misc
+
+# Option 'Allow overlapping monster attack sfx of same type'
+Y:ovl_sfx_mon_attack
+
+# Option 'Allow ovl. monster spell/breath sfx of same type'
+Y:ovl_sfx_mon_spell
+
+# Option 'Allow overlapping misc monster sfx of same type'
+Y:ovl_sfx_mon_misc
+
+# Option 'Don't play basic monster attack sound fx'
+X:no_monsterattack_sfx
+
+# Option 'Don't play shriek (monster hasting) sound fx'
+X:no_shriek_sfx
+
+# Option 'Don't play sound fx when entering/leaving a store'
+X:no_store_bell
+
+# Option 'Play quieter ambient/weather sound in buildings'
+Y:quiet_house_sfx
+
+# Option 'Don't play ambient/weather sound in buildings'
+X:no_house_sfx
+
+# Option 'Don't play anti-magic disruption sound effect'
+X:no_am_sfx
+
+# Option '(deprecated) Use color if possible'
+Y:use_color
+
+# Option 'Prompt for various information (mimic polymorph)'
+X:other_query_flag
+
+# Option 'Don't loop song files but shuffle through them'
+X:shuffle_music
+
+# Option 'Display permanent vault walls in a special colour'
+X:permawalls_shade
+
+# Option 'Don't display messages in main window top line'
+X:topline_no_msg
+
+# Option 'Display look/target info in message window too'
+X:targetinfo_msg
+
+# Option 'Always update item timeout numbers on every tick'
+Y:live_timeouts
+
+# Option 'Flash own character icon when going badly insane'
+X:flash_insane
+
+# Option 'Get last words when the character dies'
+Y:last_words
+
+# Option 'Disturb whenever seeing any monster'
+X:disturb_see
+
+
+# Window 'Msg/Chat', Flag 'Display all messages'
+W:1:4
+
+# Window 'Inventory', Flag 'Display inven/equip'
+W:2:0
+
+# Window 'Character', Flag 'Display character'
+W:3:2
+
+# Window 'Chat', Flag 'Display chat messages'
+W:4:5
+
+# Window 'Equipment', Flag 'Display equip/inven'
+W:5:1
+
+# Window 'Term-6', Flag 'Display mini-map'
+W:6:6
+
+# Window 'Term-7', Flag 'Display lag-o-meter'
+W:7:7
+
+
+
+
+

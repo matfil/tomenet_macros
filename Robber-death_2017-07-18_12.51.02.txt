@@ -1,0 +1,237 @@
+  [TomeNET 4.7.1 @ europe.tomenet.eu Character Dump]
+
+ Name        : Robber           Age                 19       STR:     13       
+ Sex         : Male             Height              25       INT:     11       
+ Race        : Yeek             Weight             173       WIS:      9       
+ Class       : Rogue            Social Class        78       DEX: 18/211       
+ Body        : Player                                        CON:     17       
+                                                             CHR:      7       
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           29      Level             31    Hit Points      -11/ 262   
+ +To MDamage        10      Experience    127479    MP (Mana)        41/  41   
+ +To RHit           35      Max Exp       127479    Sanity             Sound   
+ +To RDamage        15      Exp to Adv.   150000                               
+ Total AC           66      Gold          145703    Status              DEAD   
+                                                                               
+ Fighting    : Superb       Perception  : Superb       Blows/Round:  5         
+ Bows/Throw  : Heroic       Searching   : Very Good    Shots/Round:  2         
+ Saving Throw: Superb       Disarming   : Excellent                            
+ Stealth     : Legendary    Magic Device: Poor         Infra-Vision: 0 feet    
+                                                                               
+          You are at -50 ft in Mordor.                                         
+                                                                               
+                                                                               
+          You are one of several children of a Landed Knight. You are          
+          a well liked child. You have dark brown eyes, curly black            
+          hair, and an average complexion.                                     
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 62)
+ - Combat                                         01.000 [1.200]
+     - Weaponmastery                              01.000 [0.700]
+         - Sword-mastery                          00.000 [0.600]
+             . Critical-strike                    00.000 [0.900]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               01.000 [0.900]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            00.000 [0.350]
+         . Crossbow-mastery                       00.000 [0.350]
+     . Boomerang-mastery                          00.000 [0.600]
+ - Magic                                          07.000 [0.600]
+         . Air                                    00.000 [0.750]
+         . Conveyance                             00.000 [0.750]
+         . Necromancy                             00.000 [1.000]
+         . Traumaturgy                            00.000 [1.000]
+         . Aura of Fear                           00.000 [1.000]
+         . Shivering Aura                         00.000 [1.000]
+         . Aura of Death                          00.000 [1.000]
+     . Magic device                               01.000 [0.950]
+ - Sneakiness                                     12.970 [0.900]
+     . Stealth                                    33.200 [0.700]
+     . Stealing                                   33.000 [1.000]
+     . Backstabbing                               01.000 [1.000]
+     . Dodging                                    01.000 [0.900]
+     . Calmness                                   00.000 [0.800]
+     . Trapping                                   01.000 [1.000]
+ - Health                                         01.000 [1.000]
+     . Swimming                                   00.000 [0.060]
+     . Climbing                                   00.000 [0.040]
+     . Digging                                    00.000 [1.100]
+
+
+  [Character Equipment]
+
+a) Dagger (Defender) (base,nether) {+,31}(1d4)(+20,+21)[+8](+1stl)
+b) a Dagger {+,1} (1d4) (+0,+0)
+c) a Long Bow of Lothlorien {+,24} (x4) (+16,+15) (+2)
+d) a Glass Ring of Toughness {+,?}
+e) a Glass Ring of Toughness {+,25} (+4) {stolen}
+f) a Malachite Amulet of Serpents {+,?}
+g) a Brass Lantern {+,1} (with 14659 turns of light)
+h) a Gown {+,?} [1] {good}
+i) a Kolla {+,26} [3,+11] (+2) {stolen}
+j) Cloth Hat of Brilliance {+,15}[1,+10](+1){excellent-Azog, King of the Uruk-Hai}
+k) a Set of Cesti of Agility {+,31} [5,+11] (+5) {stolen}
+l) a Pair of Hard Leather Boots {+,?} [3] {good}
+m) 15 Magic Arrows {+,?} (1d4) {!k}
+n) (tool)
+
+
+  [Character Inventory]
+
+a) a Handbook of Beginner Cantrips {+,3} {on sale}
+b) a Codex {+,4} {on sale}
+c) a Lembas {+,6}
+d) 4 Flasks of Oil {+,1}
+e) 9 Coagulated Crimson Potions of Speed {+,3} {stolen}
+f) 4 Chartreuse Potions of Cure Critical Wounds {+,1}
+g) 6 Hazy Potions of Restore Life Levels {+,8} {on sale}
+h) 4 Clotted Red Potions of Resistance {+,10} {stolen}
+i) 31 Scrolls "an ornab mebul" of Phase Door {+,1} {75% off}
+j) 11 Scrolls "bucon reafid" of Teleportation {+,5} {stolen}
+k) 6 Scrolls "fuerk whonsef" of Word of Recall {+,1} {@R}
+l) a Scroll "nesag bie tem" of Remove Curse {+,6}
+m) 4 Scrolls "werg aus snehe" of Enchant Armour {+,2} {stolen}
+n) 15 Scrolls "flitshu mican" of Satisfy Hunger {+,1}
+o) a Runed Rod of Frost Bolts {+,10}
+p) a Zinc Rod of Trap Location {+,1}
+q) a Flail {+,?} (3d5) {Sangahyando of Umbar}
+
+
+  [Last Messages]
+
+
+The Ixitxachitl priest misses you.
+You're drowning!
+You backstab the fleeing the Ixitxachitl priest for 26 damage.
+You have slain the Ixitxachitl priest.
+You're drowning! (x3)
+The Hill troll Warrior interferes with your attempt!
+You're drowning!
+The Hill troll Warrior hits you for 5 damage.
+The Hill troll Warrior hits you for 11 damage.
+The Hill troll Warrior bites you for 18 damage.
+The Hill troll Chieftain hits you for 7 damage.
+The Hill troll Chieftain misses you.
+The Hill troll Chieftain bites you for 6 damage.
+You're drowning!
+The Hill troll Chieftain misses you. (x3)
+You're drowning!
+The Hill troll Chieftain hits you for 7 damage.
+The Hill troll Chieftain hits you for 10 damage.
+The Hill troll Chieftain bites you for 8 damage.
+You hit the Hill troll Chieftain for 1 damage.
+You miss the Hill troll Chieftain.
+You hit the Hill troll Chieftain for 4 damage.
+You miss the Hill troll Chieftain.
+You hit the Hill troll Chieftain for 22 damage.
+The Hill troll Chieftain misses you. (x2)
+The Hill troll Chieftain bites you for 13 damage.
+'[' key is currently not used.  Hit '?' for help.
+The Hill troll Chieftain hits you for 7 damage.
+The Hill troll Chieftain hits you for 9 damage.
+The Hill troll Chieftain misses you.
+You're drowning!
+The Hill troll Warrior hits you for 10 damage.
+You parry the Hill troll Warrior's attack.
+The Hill troll Warrior misses you.
+The Hill troll Chieftain misses you. (x2)
+The Hill troll Chieftain bites you for 8 damage.
+You're drowning!
+You parry the Hill troll Warrior's attack.
+The Hill troll Warrior misses you. (x2)
+The Hill troll Chieftain hits you for 5 damage.
+The Hill troll Chieftain misses you. (x2)
+You hit the Hill troll Chieftain for 1 damage.
+You miss the Hill troll Chieftain.
+You parry the Hill troll Warrior's attack.
+The Hill troll Warrior misses you. (x2)
+The Hill troll Chieftain hits you for 5 damage.
+The Hill troll Chieftain misses you. (x2)
+You miss the Hill troll Chieftain.
+You hit the Hill troll Chieftain for 24 damage.
+The Hill troll Warrior misses you. (x2)
+The Hill troll Warrior bites you for 16 damage.
+You hit the Hill troll Chieftain for 1 damage.
+The Hill troll Chieftain hits you for 8 damage.
+The Hill troll Chieftain misses you.
+The Hill troll Chieftain bites you for 11 damage.
+You hit the Hill troll Chieftain for 22 damage.
+'[' key is currently not used.  Hit '?' for help.
+You hit the Hill troll Chieftain for 3 damage.
+The Hill troll Warrior hits you for 7 damage.
+You parry the Hill troll Warrior's attack.
+The Hill troll Warrior misses you.
+You're drowning!
+The Hill troll Chieftain misses you. (x2)
+The Hill troll Chieftain bites you for 11 damage.
+You miss the Hill troll Chieftain.
+You hit the Hill troll Chieftain for 3 damage.
+The Hill troll Warrior misses you. (x2)
+The Hill troll Warrior bites you for 12 damage.
+You hit the Hill troll Chieftain for 25 damage.
+The Hill troll Chieftain misses you. (x3)
+You hit the Hill troll Chieftain for 24 damage.
+You're drowning!
+You miss the Hill troll Chieftain.
+The Hill troll Warrior misses you. (x3)
+The Hill troll Chieftain hits you for 7 damage.
+The Hill troll Chieftain misses you. (x2)
+You miss the Hill troll Chieftain. (x2)
+The Hill troll Warrior misses you.
+You parry the Hill troll Warrior's attack.
+The Hill troll Warrior bites you for 21 damage.
+You were defeated by a Hill troll Warrior, but the priests have saved you.
+
+
+  [Surroundings]
+
+Yeek                                                                            
+Rogue                                                                           
+Thief                                                                           
+LEVEL     31                                                                    
+XP    -22521                                                                    
+AU    145703                                                                    
+                                                                                
+[+---------]                                                                    
+STR:      13                                                                    
+INT:      11                   #                                                
+WIS:       9                #  ^##^                                             
+DEX:  18/211                #      ~                                            
+CON:      17                 # ~  ~~                                            
+CHR:       7                 #~~^^^^^^                                          
+SN:    Sound                ~~~~~TT~~^                                          
+AC:       66                 ~~~~~@~^^                                          
+HP: -11/ 262                  ^~^~~#~~                                          
+MP:  41/  41                   ^^^##                                            
+ST:  10/  10                                                                    
+   DH FK                                                                        
+[********--]                                                                    
+                                                                                
+                                                              5 BpR    -50ft    
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Mughash, the Kobold Lord.
+You have slain Lagduf, the Snaga.
+You have slain Robin Hood, the Outlaw.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Ulfast, Son of Ulfang.
+You have slain The Rat King.
+You have slain Ugluk, the Uruk.
+You have assisted in slaying The Queen Ant.
+You have slain Sangahyando of Umbar.
+You have assisted in slaying Khim, Son of Mim.
+You have assisted in slaying Lorgan, Chief of the Easterlings.
+
+
