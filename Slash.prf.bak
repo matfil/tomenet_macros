@@ -712,7 +712,7 @@ H:'
 
 # Macro '118'
 
-A:\e)m@11\r@Vision\r
+A:\e)m@11\r@Vision\sI\r
 H:^__FFAD\r^\-^\
 
 
@@ -742,14 +742,38 @@ P:"
 
 # Macro '123'
 
-A:\e)*q/@@/Trap\r5
+A:\e)m@11\r@Sense\sHidden\r
 H:^__FFAB\r^\+^\
 
 
 # Macro '124'
 
-A:\e)m@11\r@Vision\sI\r
+A:\e)m@11\r@Vision\sII\r
 H:^_S_FFAD\r^\-^\
+
+
+# Macro '125'
+
+A:\e)*tf-
+H:|
+
+
+# Macro '126'
+
+A:\e):/dis\sf\r
+H:^_S_FFC9\r
+
+
+# Macro '127'
+
+A:\e)m@11\r@Identify\sII\r
+H:^__FFC8\r
+
+
+# Macro '128'
+
+A:\e)m@11\r@Identify\sI\r
+H:^_S_FFC8\r
 
 
 
