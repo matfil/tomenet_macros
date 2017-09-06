@@ -1,0 +1,347 @@
+  [TomeNET 4.7.1a @ europe.tomenet.eu Character Dump]
+
+ Name        : Slash            Age                 18       STR: 18/119       
+ Sex         : Male             Height             132       INT: 18/120       
+ Race        : Human            Weight             185       WIS:  18/90       
+ Class       : Ranger           Social Class         1       DEX: 18/160       
+ Body        : Player                                        CON: 18/120       
+                                                             CHR: 18/100       
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           90      Level             42    Hit Points      -10/ 667   
+ +To MDamage        52      Experience   1588313    MP (Mana)        55/ 101   
+ +To RHit           32      Max Exp      1588313    Sanity              Sane   
+ +To RDamage        15      Exp to Adv.  1850000                               
+ Total AC           76      Gold          383364    Status              DEAD   
+                                                                               
+ Fighting    : Legendary    Perception  : Superb       Blows/Round:  8         
+ Bows/Throw  : Superb       Searching   : Good         Shots/Round:  2         
+ Saving Throw: Heroic       Disarming   : Very Good                            
+ Stealth     : Excellent    Magic Device: Fair         Infra-Vision: 40 feet   
+                                                                               
+          You are at -50 ft in Angband (Lothlorien).                           
+                                                                               
+                                                                               
+          You are one of several children of a Serf. You are the               
+          black sheep of the family. You have blue eyes, straight              
+          blond hair, and an average complexion.                               
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 0)
+ - Combat                                         22.600 [1.000]
+     - Weaponmastery                              15.240 [0.800]
+         o Sword-mastery                          50.000 [0.700]
+         . Axe-mastery                            00.000 [0.700]
+         . Blunt-mastery                          00.000 [0.700]
+         . Polearm-mastery                        00.000 [0.700]
+         . Combat Stances                         49.000 [-----]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               50.000 [0.920]
+     - Archery                                    01.000 [0.700]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            01.000 [0.450]
+         . Crossbow-mastery                       00.000 [0.450]
+     . Boomerang-mastery                          00.000 [0.600]
+ - Magic                                          05.000 [0.800]
+         . Mana                                   01.000 [0.700]
+         . Fire                                   00.000 [0.900]
+         . Water                                  00.000 [0.900]
+         . Air                                    00.000 [0.900]
+         . Earth                                  00.000 [0.900]
+         . Nature                                 00.000 [0.900]
+         . Conveyance                             00.000 [0.900]
+         . Divination                             40.000 [0.800]
+         . Temporal                               00.000 [0.700]
+         . Mind                                   00.000 [0.800]
+         . Meta                                   00.000 [0.800]
+         . Spell-power                            00.000 [0.450]
+     . Magic device                               01.000 [1.000]
+ - Sneakiness                                     08.725 [0.750]
+     . Stealth                                    00.000 [0.600]
+     . Dodging                                    37.100 [0.700]
+     . Calmness                                   00.000 [0.700]
+     . Trapping                                   01.000 [1.100]
+ - Health                                         02.000 [1.000]
+     . Swimming                                   00.000 [0.050]
+     . Climbing                                   00.000 [0.050]
+     . Digging                                    01.000 [1.200]
+
+
+  [Character Equipment]
+
+a) The Executioner's Sword 'Crisdurian' {+,30} (7d6) (+18,+29) (+1)
+b) -
+c) a Long Bow of Lothlorien (nether) {+,27} (x4) (+15,+15) (+1)
+d) a Quartz Ring of Speed {+,45} (+10) {!ksv}
+e) a Quartz Ring of Speed {+,45} (+10) {!ksv}
+f) an Aquamarine Amulet of Trickery {+,39} (+4) {25% off}
+g) a Feanorian Lamp {+,32}
+h) an Elven Frock [poison,sound] {+,30} [2,+13] (+2 to stealth) {!k}
+i) a Shadow Cloak of Protection {+,35} [6,+11]
+j) a Golden Crown of Telepathy {+,39} [0,+7]
+k) The Set of Elven Gloves of Mindon {+,44} [1,+15] (+4)
+l) a Pair of Hard Leather Boots of Speed {+,34} [3,+8] (+9)
+m) The Seeker Arrow 'Mirdain' {+,31} (4d4) (+0,+0)
+n) a Dwarven Pick of Digging {+,21} (1d4) (+15,+15) (+3) (+5)
+
+
+  [Character Inventory]
+
+a) a Fireproof Codex {+,11}
+b) 21 Coagulated Crimson Potions of Speed {+,3} {100% off}
+c) 22 Copper Speckled Potions of Healing {+,19} {90% off}
+d) 5 Hazy Potions of Restore Life Levels {+,8} {on sale}
+e) 6 Clotted Red Potions of Resistance {+,8} {75% off}
+f) 20 Scrolls "an ornab mebul" of Phase Door {+,1} {10% off}
+g) 9 Scrolls "bucon reafid" of Teleportation {+,2} {on sale}
+h) a Scroll "agnes cre" of Recharging {+,16}
+i) a Long Rod of Recall {+,11} {@R}
+j) 5 Zirconium Rods of Disarming {+,16}
+k) a Rusty Rod of Acid Bolts {+,18}
+l) a Cast Iron Rod of Lightning Balls {+,20}
+m) a Bronze Rod of Fire Balls {+,27}
+n) a Zinc Rod of Trap Location of Simplicity {+,14} {@/Trap!k}
+
+
+  [Last Messages]
+
+
+The Rotting corpse misses you. (x14)
+The Death knight Drunk misses you.
+The Death knight Drunk hits you for 25 damage.
+The Death knight Drunk misses you.
+The Rotting corpse misses you. (x2)
+It magically summons an undead adversary!
+The Rotting corpse misses you. (x9)
+The Rotting corpse claws you for 3 damage.
+It magically summons an undead adversary!
+The Rotting corpse claws you for 1 damage.
+The Rotting corpse misses you. (x7)
+The Skull druj gazes deep into your eyes.
+You resist the effects!
+The Rotting corpse claws you for 1 damage.
+The Rotting corpse misses you. (x7)
+The Skull druj gazes deep into your eyes.
+You resist the effects!
+The Rotting corpse misses you. (x4)
+You can move again.
+The Death knight misses you.
+You dodge the Death knight's attack!
+The Death knight hits you for 26 damage.
+You have 20 Scrolls "an ornab mebul" of Phase Door {+,1} {10% off}.
+The Skull druj gazes deep into your eyes.
+Your mind is blasted by psionic energy.
+The Rotting quylthulg magically summons an undead adversary!
+You hit the Death knight for 106 damage.
+You hit the Death knight for 112 damage.
+You hit the Death knight for 104 damage.
+Your weapon cuts deep into the Death knight!
+It was a superb hit!
+You hit the Death knight for 288 damage.
+Your weapon cuts deep into the Death knight!
+It was a great hit!
+You hit the Death knight for 279 damage.
+You have destroyed the Death knight.
+The Skull druj magically summons an undead adversary!
+Your weapon cuts deep into the Skeleton ettin!
+You hit the Skeleton ettin for 129 damage.
+It was a great hit!
+You hit the Skeleton ettin for 186 damage.
+You miss the Skeleton ettin.
+You hit the Skeleton ettin for 98 damage.
+Your weapon cuts deep into the Skeleton ettin!
+You hit the Skeleton ettin for 150 damage.
+You miss the Skeleton ettin.
+You hit the Skeleton ettin for 104 damage.
+You have destroyed the Skeleton ettin.
+You have 9 Scrolls "bucon reafid" of Teleportation {+,2} {on sale}.
+You hear a door burst open!
+You feel yourself slow down.
+The Water hound gestures fluidly.
+You are engulfed in a whirlpool for 149 damage!
+The Water hound gestures fluidly.
+You are engulfed in a whirlpool for 69 damage!
+The Acid hound breathes acid for 6 damage!
+The Water hound gestures fluidly.
+You are engulfed in a whirlpool for 30 damage!
+The Water hound gestures fluidly.
+You are engulfed in a whirlpool for 74 damage!
+The Water hound gestures fluidly.
+You are engulfed in a whirlpool for 65 damage!
+You were defeated by a Water hound, but the priests have saved you.
+
+
+  [Surroundings]
+
+Human          ooo        L D        UZZ       DD                               
+Ranger       O  o  O       J  ZZZ   SZZZ  Z o  U  T                             
+Supervisor   OO   OO   rf    ZZ           ZZoo   TT                             
+LEVEL 42(49) OOOOOOOOO  J  h W   H       ZqoVoYTTTT                             
+XP   -261687 OhU GDmOO      Tb  P         o oATdTpT                             
+AU    383364 A$ pW       DUPDDL   p   D d   jTMT Tp                             
+                                                                                
+[+---------]                                                                    
+STR:  18/119                                Z                                   
+INT:  18/120                                                                    
+WIS:   18/90                                  ZZ                                
+DEX:  18/160                                   ZZ                               
+CON:  18/120                                                                    
+CHR:  18/100                   G J             T                                
+SN:     Sane                                                                    
+AC:       76                   D       b           p                            
+HP: -10/ 667                                                                    
+MP:  55/ 101                 p       Z   z                                      
+ST:  10/  10                                                                    
+Bl                           H     T T D                                        
+(59,51)                                                                         
+                                           r   p   k#..                         
+                                                    #..#                        
+                                   G G     Z        #..#                        
+                                                    #.~#                        
+                                   O W d T          #@.#                        
+                                                    #..#                        
+                             d S   Z     p   u     p#ZZ#     Z  ZZZZZ        R  
+                          u                         #ZZ#     Z       Z          
+                                                 D  #..       ZZ UZZZ           
+                                                     ZZ        Z     Z          
+                               h H h         z e T W         ZZG ZZZ   Z z Z    
+                                                     ZZ      Z   Z     Z z Z    
+                                              ZZZZZZZZZ      Z ZZp    GZ   Z    
+                                               ZZZZZZ*Z      Z             Z    
+                                                Z Z Z Z      ZZZZZZZZZZZ   Z    
+                $$    $$$ $|                    ZZpZZZZZ     Z Z           Z    
+             $$|$$$   | $  $                                 V L uuu uuu   Z ZZ 
+              $$$ $   $$ $$                          Z           u u u u   Z Z  
+             $  $$ |$|$$$$                                       u uuu u   ZZZZ 
+              $|$$ |$|$$  |                                                     
+                                                                                
+                                                                                
+                                                                                
+Weak                                              Fast +38    8 BpR    -50ft    
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Smeagol.
+You have slain Bullroarer the Hobbit.
+You have slain The disembodied hand that strangled people.
+You have slain Mughash, the Kobold Lord.
+You have slain Vort the Kobold Queen.
+You have slain Lagduf, the Snaga.
+You have slain Brodda, the Easterling.
+You have slain Wormtongue, Agent of Saruman.
+You have slain Robin Hood, the Outlaw.
+You have slain The Borshin.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Golfimbul, the Hill Orc Chief.
+You have slain Boldor, King of the Yeeks.
+You have slain Ulfast, Son of Ulfang.
+You have slain Nar, the Dwarf.
+You have slain The Rat King.
+You have slain Gorbag, the Orc Captain.
+You have slain The Icky Queen.
+You have slain Bolg, Son of Azog.
+You have slain Lugdush, the Uruk.
+You have slain Ugluk, the Uruk.
+You have slain The Queen Ant.
+You have slain Azog, King of the Uruk-Hai.
+You have slain Ibun, Son of Mim.
+You have slain Sangahyando of Umbar.
+You have slain Angamaite of Umbar.
+You have slain Khim, Son of Mim.
+You have slain Khufu, the Mummified King.
+You have slain Ulwarth, Son of Ulfang.
+You have slain Mim, Betrayer of Turin.
+You have slain Uldor the Accursed.
+You have slain Lokkak, the Ogre Chieftain.
+You have slain Bokrug.
+You have slain Fasolt the Giant.
+You have slain Bert the Stone Troll.
+You have slain Bill the Stone Troll.
+You have slain Fire Phantom.
+You have slain The Wight-King of the Barrow-downs.
+You have slain Lorgan, Chief of the Easterlings.
+You have slain Giganto, the Gargantuan.
+You have slain Draebor, the Imp.
+You have slain Castamir the Usurper.
+You have slain Kavlax the Many-Headed.
+You have slain Mother Hydra.
+You have slain Uvatha the Horseman.
+You have slain Emperor Mimic.
+You have slain Shadowfax, steed of Gandalf.
+You have slain Jaws.
+You have slain The Kung-Fu Yeek from Hell.
+You have slain Medusa, the Gorgon.
+You have slain Strygalldwir.
+You have slain Ubbo-Sathla, the Unbegotten Source.
+You have slain Rogrog the Black Troll.
+You have slain Gorlim, Betrayer of Barahir.
+You have slain Glaryssa, Succubus Queen.
+You have slain Scylla.
+You have slain Charybdis.
+You have slain Eilinel the Entrapped.
+You have slain Waldern, King of Water.
+You have slain Quaker, Master of Earth.
+You have slain Ariel, Queen of Air.
+You have slain Vargo, Tyrant of Fire.
+You have slain Adunaphel the Quiet.
+You have slain Utgard-Loke.
+You have slain Quachil Uttaus, Treader of the Dust.
+You have slain Malekith the Accursed.
+You have slain Akhorahil the Blind.
+You have slain Scatha the Worm.
+You have slain Yibb-Tstll, the Patient One.
+You have slain Itangast the Fire Drake.
+You have slain Charon, Boatman of the Styx.
+You have slain Ren the Unclean.
+You have slain Fafner the Dragon.
+You have slain Garm, Guardian of Hel.
+You have slain Eol, the Dark-Elf.
+You have slain Ulik the Troll.
+You have slain Harowen the Black Hand.
+You have slain Ji Indur Dawndeath.
+You have slain The Glass Golem.
+You have slain The Phoenix.
+You have slain Nidhogg, the Hel-Drake.
+You have slain The Lernaean Hydra.
+You have slain Hastur the Unspeakable.
+You have slain Ahtu, Avatar of Nyarlathotep.
+You have slain Dwar, Dog Lord of Waw.
+You have slain Nyogtha, the Thing that Should not Be.
+You have slain Daoloth, the Render of the Veils.
+You have slain Baphomet the Minotaur Lord.
+You have slain Shudde M'ell.
+You have slain Saruman of Many Colours.
+You have slain Uriel, Angel of Fire.
+You have slain Azriel, Angel of Death.
+You have slain Gabriel, the Messenger.
+You have slain Hoarmurath of Dir.
+You have slain The Cat Lord.
+You have slain Hypnos, Lord of Sleep.
+You have slain Glaaki.
+You have slain Thuringwethil, the Vampire Messenger.
+You have slain Tselakus, the Dreadlord.
+You have slain Polyphemus, the Blind Cyclops.
+You have slain Surtur, the Fire Giant.
+You have slain Khamul, the Black Easterling.
+You have slain Null, the Living Void.
+You have slain Omarax the Eye Tyrant.
+You have slain Hela, Queen of the Dead.
+You have slain Mardra, rider of the Gold Loranth.
+You have slain Yig, Father of Serpents.
+You have slain Vlad Dracula, Prince of Darkness.
+You have slain The Mouth of Sauron.
+You have slain Thiazi, the Storm Giant.
+You have slain The Tarrasque.
+You have slain Jormungand the Midgard Serpent.
+You have slain Gothmog, the High Captain of Balrogs.
+
+

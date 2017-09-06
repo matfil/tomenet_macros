@@ -10,8 +10,8 @@ C:X
 
 # Macro '1'
 
-A:\e)q@Healing\r
-H:,
+A::+:
+C:,
 
 
 # Macro '2'
@@ -148,8 +148,8 @@ P:^__FFE0\r
 
 # Macro '24'
 
-A:\e)q@Resistance\r
-H:^__FF63\r
+A:0
+P:^__FF63\r
 
 
 # Macro '25'
@@ -700,92 +700,8 @@ P:^_N_FF9A\r
 
 # Macro '116'
 
-A:\e)q@Speed\r
-H:^__FFB0\r^\0^\
-
-
-# Macro '117'
-
 A:\e)*tf-
 H:'
-
-
-# Macro '118'
-
-A:\e)m@11\r@Vision\sI\r
-H:^__FFAD\r^\-^\
-
-
-# Macro '119'
-
-A:\e)m@11\r@Identify\r
-H:^__FFC9\r
-
-
-# Macro '120'
-
-A:\e)r@Phase\sDoor\r
-H:[
-
-
-# Macro '121'
-
-A:\e)r@Teleportation\r
-H:]
-
-
-# Macro '122'
-
-A:
-P:"
-
-
-# Macro '123'
-
-A:\e)m@11\r@Sense\sHidden\r
-H:^__FFAB\r^\+^\
-
-
-# Macro '124'
-
-A:\e)m@11\r@Vision\sII\r
-H:^_S_FFAD\r^\-^\
-
-
-# Macro '125'
-
-A:\e)*tf-
-H:|
-
-
-# Macro '126'
-
-A:\e):/dis\sf\r
-H:^_S_FFC9\r
-
-
-# Macro '127'
-
-A:\e)m@11\r@Identify\sII\r
-H:^__FFC8\r
-
-
-# Macro '128'
-
-A:\e)m@11\r@Identify\sI\r
-H:^_S_FFC8\r
-
-
-# Macro '129'
-
-A:\e):/dis\sa\r
-H:^__FFC5\r
-
-
-# Macro '130'
-
-A:\e)m@11\r@Detect\sMonsters\r
-H:^_N_FFAD\r^\-^\
 
 
 
