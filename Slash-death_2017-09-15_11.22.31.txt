@@ -1,0 +1,379 @@
+  [TomeNET 4.7.1a @ europe.tomenet.eu Character Dump]
+
+ Name        : Slash            Age                 18       STR: 18/140       
+ Sex         : Male             Height              96       INT: 18/120       
+ Race        : Human            Weight             185       WIS: 18/120       
+ Class       : Ranger           Social Class         1       DEX: 18/150       
+ Body        : Player                                        Con: 18/115 18/120
+                                                             CHR: 18/100       
+ Mode        : Everlasting (infinite lives)                                    
+                                                                               
+ +To MHit           78      Level             42    Hit Points       -1/ 651   
+ +To MDamage        43      Experience   1646533    MP (Mana)       105/ 105   
+ +To RHit           32      Max Exp      1653194    Sanity             Sound   
+ +To RDamage        18      Exp to Adv.  1850000                               
+ Total AC           81      Gold          161188    Status              DEAD   
+                                                                               
+ Fighting    : Legendary    Perception  : Superb       Blows/Round:  10        
+ Bows/Throw  : Superb       Searching   : Good         Shots/Round:  1         
+ Saving Throw: Heroic       Disarming   : Very Good                            
+ Stealth     : Superb       Magic Device: Fair         Infra-Vision: 40 feet   
+                                                                               
+          You are at -50 ft in Angband (Lothlorien).                           
+                                                                               
+                                                                               
+          You are one of several children of a Serf. You are the               
+          black sheep of the family. You have blue eyes, straight              
+          blond hair, and an average complexion.                               
+                                                                               
+
+  [Skill Chart]
+
+Skills (points left: 0)
+ - Combat                                         22.600 [1.000]
+     - Weaponmastery                              15.240 [0.800]
+         o Sword-mastery                          50.000 [0.700]
+         . Axe-mastery                            00.000 [0.700]
+         . Blunt-mastery                          00.000 [0.700]
+         . Polearm-mastery                        00.000 [0.700]
+         . Combat Stances                         49.000 [-----]
+         . Dual-wield                             01.000 [-----]
+     . Martial Arts                               00.000 [0.500]
+     . Interception                               50.000 [0.920]
+     - Archery                                    01.000 [0.700]
+         . Sling-mastery                          00.000 [0.450]
+         . Bow-mastery                            01.000 [0.450]
+         . Crossbow-mastery                       00.000 [0.450]
+     . Boomerang-mastery                          00.000 [0.600]
+ - Magic                                          05.000 [0.800]
+         . Mana                                   01.000 [0.700]
+         . Fire                                   00.000 [0.900]
+         . Water                                  00.000 [0.900]
+         . Air                                    00.000 [0.900]
+         . Earth                                  00.000 [0.900]
+         . Nature                                 00.000 [0.900]
+         . Conveyance                             00.000 [0.900]
+         . Divination                             40.000 [0.800]
+         . Temporal                               00.000 [0.700]
+         . Mind                                   00.000 [0.800]
+         . Meta                                   00.000 [0.800]
+         . Spell-power                            00.000 [0.450]
+     . Magic device                               01.000 [1.000]
+ - Sneakiness                                     08.725 [0.750]
+     . Stealth                                    00.000 [0.600]
+     . Dodging                                    37.100 [0.700]
+     . Calmness                                   00.000 [0.700]
+     . Trapping                                   01.000 [1.100]
+ - Health                                         02.000 [1.000]
+     . Swimming                                   00.000 [0.050]
+     . Climbing                                   00.000 [0.050]
+     . Digging                                    01.000 [1.200]
+
+
+  [Character Equipment]
+
+a) The Long Sword 'Eonwe' {+,44} (2d6) (+12,+20) (+3)
+b) The Dagger 'Girith' {+,41} (1d4) (+2,+18) {!k}
+c) The Small Wooden Boomerang 'Nienor' {+,41} (2d2) (+17,+18)
+d) a Quartz Ring of Speed {+,44} (+9) {!ksv}
+e) a Quartz Ring of Speed {+,45} (+10) {!ksvd}
+f) an Aquamarine Amulet of Trickery {+,39} (+4) {25% off}
+g) The Dwarven Lantern 'Gorlim' {+,33} (+2)
+h) an Elven Frock {+,30} [2,+8] (+2 to stealth) {@x1!ks}
+i) a Fur Cloak of Aman {+,25} [3,+18] (+2 to stealth) {disen}
+j) a Golden Crown of Telepathy {+,39} [0,+11]
+k) The Set of Elven Gloves of Mindon {+,44} [1,+15] (+4)
+l) a Pair of Hard Leather Boots of Speed {+,34} [3,+10] (+9)
+m) (quiver)
+n) a Dwarven Pick of Digging {+,21} (1d4) (+15,+15) (+3) (+5)
+
+
+  [Character Inventory]
+
+a) a Fireproof Codex {+,13}
+b) a Fireproof Codex {+,12}
+c) 26 Coagulated Crimson Potions of Speed {+,3} {on sale}
+d) 38 Copper Speckled Potions of Healing {+,16} {25% off}
+e) 24 Clotted Red Potions of Resistance {+,7}
+f) 46 Scrolls "an ornab mebul" of Phase Door {+,1}
+g) 22 Scrolls "bucon reafid" of Teleportation {+,5} {on sale}
+h) 8 Scrolls "flitshu mican" of Satisfy Hunger {+,1} {90% off}
+i) 3 Long Rods of Recall {+,9} {@R !k}
+j) 6 Zirconium Rods of Disarming {+,13} {!k}
+k) Ethereal Dragon Scale Mail {+,32} (-2) [30,+27] {@x1!ksvd}
+
+
+  [Last Messages]
+
+
+You hit Mephistopheles, Lord of Hell for 66 damage.
+You are enveloped in flames for 1 damage!
+You hit Mephistopheles, Lord of Hell for 66 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell.
+Mephistopheles, Lord of Hell gazes at you for 23 damage.
+You feel your life slipping away!
+Mephistopheles, Lord of Hell gazes at you for 33 damage.
+You stand your ground!
+Mephistopheles, Lord of Hell misses you.
+You dodge Mephistopheles, Lord of Hell's attack!
+You hit Mephistopheles, Lord of Hell for 62 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell.
+You hit Mephistopheles, Lord of Hell for 52 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 66 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 60 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 58 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell.
+You hit Mephistopheles, Lord of Hell for 52 damage.
+You are enveloped in flames for 1 damage!
+You miss Mephistopheles, Lord of Hell. (x8)
+You hit Mephistopheles, Lord of Hell for 48 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell.
+It was a superb hit!
+You hit Mephistopheles, Lord of Hell for 147 damage.
+You are enveloped in flames for 1 damage!
+You hit Mephistopheles, Lord of Hell for 48 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell. (x4)
+Mephistopheles, Lord of Hell breathes nether for 471 damage!
+You hit Mephistopheles, Lord of Hell for 50 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 58 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell.
+You hit Mephistopheles, Lord of Hell for 62 damage.
+You are enveloped in flames for 1 damage!
+You hit Mephistopheles, Lord of Hell for 64 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 70 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 58 damage.
+You are enveloped in flames for 1 damage!
+You miss Mephistopheles, Lord of Hell. (x2)
+You hit Mephistopheles, Lord of Hell for 54 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell. (x6)
+Mephistopheles, Lord of Hell gazes at you for 34 damage.
+You feel your life slipping away!
+Mephistopheles, Lord of Hell gazes at you for 27 damage.
+You stand your ground!
+Mephistopheles, Lord of Hell misses you.
+You dodge Mephistopheles, Lord of Hell's attack!
+You miss Mephistopheles, Lord of Hell. (x5)
+You hit Mephistopheles, Lord of Hell for 54 damage.
+You are enveloped in flames for 2 damage!
+You miss Mephistopheles, Lord of Hell.
+You hit Mephistopheles, Lord of Hell for 66 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 54 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 54 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 60 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 56 damage.
+You are enveloped in flames for 2 damage!
+It was a superb hit!
+You hit Mephistopheles, Lord of Hell for 135 damage.
+You are enveloped in flames for 2 damage!
+You hit Mephistopheles, Lord of Hell for 62 damage.
+You are enveloped in flames for 2 damage!
+You were defeated by Mephistopheles, Lord of Hell, but the priests have saved 
+ you.
+
+
+  [Surroundings]
+
+Human                                          ####            #####            
+Ranger                                         #  ##           #   #            
+Supervisor                                     #   #           #   #            
+LEVEL 42(49)                                ####   #           #   ####         
+Xp   -203467                                       #           #   #  ##        
+AU    161188                                       #############   #   #        
+             #          #                   ####                   #   #        
+[+---------] #  V       #                      ##                  #   #        
+STR:  18/140 #####  #####                       ##############         #        
+INT:  18/120     #  #                        ###             #         #        
+WIS:  18/120     #d+#                       ##^##            #  ########        
+DEX:  18/150     #  #                       #^+^#            #  ############### 
+Con:  18/115     #  #                       ##L##            #  ##              
+CHR:  18/100 ########             ########   ###             #   '              
+SN:    Sound        #       ###   #    $ #######             ##  '              
+AC:       81        #########<#####     !   ##+##             ####              
+HP:  -1/ 651         #+         + '   = $ = #^+D#                #              
+MP: 105/ 105         #+     # # + '$      ####^##                #              
+ST:  10/  10        ####################''#  ###                 #              
+Bl DH               #                  #  ######          ########              
+[*******---] ##''####                  #  #@##+##         #     ##   +          
+              ##  #                    #  #U# D^#         #      #              
+               #  #                    #  #.##^############                     
+               #  #########            #  #.#~############                      
+               #          ##         ####'#  # _###########                     
+               ##          #         #       \         #  #                     
+                #########  #         #                 #  #                     
+                        #  #         #                 #  #                     
+                        #  #         #                 #  #                     
+                        #  #         #                 #  #                     
+                        #  #         ###  #  ##  #######  #      #              
+                        #  #           #: #  ##  #        ########              
+                        # >#           #  #  ##  #               #              
+                    #####  #  #### #####T'#  ##  ##              ##             
+                  %%#      #  %  # %TTTTT         ####%           %%            
+             ##%%%%        ####  % %TTTTT            '%            ####         
+                             #   # %%T TT        #%##'*            %            
+                               %%%  %%%TT       ##%####         *%%%            
+                                 #%%%#%TT            #          #    #          
+                        ##++##       #####     #     #          #    #          
+                         #L #### ###   # ##          #          #  %%%          
+                    #    ##  ##### ##  #######  ######          % ^% %#%        
+                          #  #   # #     #  #        #          %  %   %  %%%#% 
+                                                     #             %   %#%%     
+                                                  Fast +47   10 BpR    -50ft    
+
+
+  [Unique Monsters]
+
+You have slain Freesia.
+You have slain Grip, Farmer Maggot's dog.
+You have slain Wolf, Farmer Maggot's dog.
+You have slain Fang, Farmer Maggot's dog.
+You have slain Smeagol.
+You have slain Bullroarer the Hobbit.
+You have slain The disembodied hand that strangled people.
+You have slain Mughash, the Kobold Lord.
+You have slain Vort the Kobold Queen.
+You have slain Lagduf, the Snaga.
+You have slain Brodda, the Easterling.
+You have slain Wormtongue, Agent of Saruman.
+You have slain Robin Hood, the Outlaw.
+You have slain The Borshin.
+You have slain Grishnakh, the Hill Orc.
+You have slain Orfax, Son of Boldor.
+You have slain Golfimbul, the Hill Orc Chief.
+You have slain Boldor, King of the Yeeks.
+You have slain Ulfast, Son of Ulfang.
+You have slain Nar, the Dwarf.
+You have slain The Rat King.
+You have slain Gorbag, the Orc Captain.
+You have slain The Icky Queen.
+You have slain Bolg, Son of Azog.
+You have slain Lugdush, the Uruk.
+You have slain Ugluk, the Uruk.
+You have slain The Queen Ant.
+You have slain Azog, King of the Uruk-Hai.
+You have slain Ibun, Son of Mim.
+You have slain Sangahyando of Umbar.
+You have slain Angamaite of Umbar.
+You have slain Khim, Son of Mim.
+You have slain Khufu, the Mummified King.
+You have slain Ulwarth, Son of Ulfang.
+You have slain Mim, Betrayer of Turin.
+You have slain Uldor the Accursed.
+You have slain Lokkak, the Ogre Chieftain.
+You have slain Bokrug.
+You have slain Fasolt the Giant.
+You have slain Bert the Stone Troll.
+You have slain Bill the Stone Troll.
+You have slain Tom the Stone Troll.
+You have slain Fire Phantom.
+You have slain The Wight-King of the Barrow-downs.
+You have slain Lorgan, Chief of the Easterlings.
+You have slain Giganto, the Gargantuan.
+You have slain Draebor, the Imp.
+You have slain Castamir the Usurper.
+You have slain Kavlax the Many-Headed.
+You have slain Mother Hydra.
+You have slain Uvatha the Horseman.
+You have slain Emperor Mimic.
+You have slain Shadowfax, steed of Gandalf.
+You have slain Jaws.
+You have slain The Kung-Fu Yeek from Hell.
+You have slain Medusa, the Gorgon.
+You have slain Strygalldwir.
+You have slain Ubbo-Sathla, the Unbegotten Source.
+You have slain Rogrog the Black Troll.
+You have slain Gorlim, Betrayer of Barahir.
+You have slain Glaryssa, Succubus Queen.
+You have slain Scylla.
+You have slain Charybdis.
+You have slain Eilinel the Entrapped.
+You have slain Waldern, King of Water.
+You have slain Quaker, Master of Earth.
+You have slain Ariel, Queen of Air.
+You have slain Vargo, Tyrant of Fire.
+You have slain Adunaphel the Quiet.
+You have slain Chaugnar Faugn, Horror from the Hills.
+You have slain Utgard-Loke.
+You have slain Quachil Uttaus, Treader of the Dust.
+You have slain Malekith the Accursed.
+You have slain Zoth-Ommog.
+You have slain Akhorahil the Blind.
+You have slain The Stormbringer.
+You have slain Ghatanothoa.
+You have slain Scatha the Worm.
+You have slain Yibb-Tstll, the Patient One.
+You have slain Itangast the Fire Drake.
+You have slain Charon, Boatman of the Styx.
+You have slain Ren the Unclean.
+You have slain Fafner the Dragon.
+You have slain Garm, Guardian of Hel.
+You have slain Eol, the Dark-Elf.
+You have slain Ulik the Troll.
+You have slain Harowen the Black Hand.
+You have slain Ji Indur Dawndeath.
+You have slain The Glass Golem.
+You have slain The Phoenix.
+You have slain Nidhogg, the Hel-Drake.
+You have slain The Lernaean Hydra.
+You have slain Hastur the Unspeakable.
+You have slain Ahtu, Avatar of Nyarlathotep.
+You have slain Dwar, Dog Lord of Waw.
+You have slain Nyogtha, the Thing that Should not Be.
+You have slain Daoloth, the Render of the Veils.
+You have slain Baphomet the Minotaur Lord.
+You have slain Artsi, the Champion of Chaos.
+You have slain Shudde M'ell.
+You have slain Saruman of Many Colours.
+You have slain Uriel, Angel of Fire.
+You have slain Azriel, Angel of Death.
+You have slain Gabriel, the Messenger.
+You have slain Hoarmurath of Dir.
+You have slain The Cat Lord.
+You have slain Hypnos, Lord of Sleep.
+You have slain Glaaki.
+You have slain Thuringwethil, the Vampire Messenger.
+You have slain Tselakus, the Dreadlord.
+You have slain Polyphemus, the Blind Cyclops.
+You have slain Rhan-Tegoth.
+You have slain Glaurung, Father of the Dragons.
+You have slain Surtur, the Fire Giant.
+You have slain Khamul, the Black Easterling.
+You have slain Null, the Living Void.
+You have slain Omarax the Eye Tyrant.
+You have slain Atlach-Nacha, the Spider God.
+You have slain Tsathoggua, the Sleeper of N'kai.
+You have slain Hela, Queen of the Dead.
+You have slain Ungoliant, the Unlight.
+You have slain Mardra, rider of the Gold Loranth.
+You have slain Y'golonac.
+You have slain Yig, Father of Serpents.
+You have slain Vlad Dracula, Prince of Darkness.
+You have slain Atlas, the Titan.
+You have slain The Mouth of Sauron.
+You have slain Thiazi, the Storm Giant.
+You have slain Cyaegha.
+You have slain The Witch-King of Angmar.
+You have slain Maeglin, the Traitor of Gondolin.
+You have slain Ithaqua the Windwalker.
+You have slain The Tarrasque.
+You have slain Vecna, the Emperor Lich.
+You have slain Jormungand the Midgard Serpent.
+You have slain Gothmog, the High Captain of Balrogs.
+
+
